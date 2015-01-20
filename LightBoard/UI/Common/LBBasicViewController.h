@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  LBBasicViewController.h
 //  LightBoard
 //
 //  Created by wulanzhou-mini on 15-1-19.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface LBBasicViewController : UIViewController
 
 @end
-

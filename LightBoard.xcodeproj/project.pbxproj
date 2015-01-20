@@ -7,39 +7,106 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3EA7CA1F1A6DFB5F00E470A6 /* LightScenesGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EA7CA1E1A6DFB5F00E470A6 /* LightScenesGroup.m */; };
+		3EA7CA231A6E05F400E470A6 /* NSString+TPCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EA7CA221A6E05F400E470A6 /* NSString+TPCategory.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		3EA7CA271A6E099600E470A6 /* AreaGroupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EA7CA261A6E099600E470A6 /* AreaGroupViewController.m */; };
+		3EA7CA2A1A6E0AAE00E470A6 /* AreaGroupCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EA7CA291A6E0AAE00E470A6 /* AreaGroupCell.m */; };
+		3EA7CA2C1A6E0AC300E470A6 /* AreaGroupCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3EA7CA2B1A6E0AC300E470A6 /* AreaGroupCell.xib */; };
+		3EA7CA301A6E1AA800E470A6 /* WifiManger.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EA7CA2F1A6E1AA800E470A6 /* WifiManger.m */; };
+		3EA7CA321A6E1ACB00E470A6 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EA7CA311A6E1ACB00E470A6 /* SystemConfiguration.framework */; };
+		3EA7CA351A6E1FFC00E470A6 /* wwanconnect.c in Sources */ = {isa = PBXBuildFile; fileRef = 3EA7CA331A6E1FFC00E470A6 /* wwanconnect.c */; };
+		3EA7CA381A6E205D00E470A6 /* UIDevice-Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EA7CA371A6E205D00E470A6 /* UIDevice-Reachability.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		3EA7CA541A6E310200E470A6 /* UIBarButtonItem+TPCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EA7CA531A6E310200E470A6 /* UIBarButtonItem+TPCategory.m */; };
 		3EACAF0D1A6C926700C7B4A8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF0C1A6C926700C7B4A8 /* main.m */; };
 		3EACAF101A6C926700C7B4A8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF0F1A6C926700C7B4A8 /* AppDelegate.m */; };
-		3EACAF131A6C926700C7B4A8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF121A6C926700C7B4A8 /* ViewController.m */; };
+		3EACAF131A6C926700C7B4A8 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF121A6C926700C7B4A8 /* HomeViewController.m */; };
 		3EACAF161A6C926700C7B4A8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EACAF141A6C926700C7B4A8 /* Main.storyboard */; };
 		3EACAF181A6C926700C7B4A8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EACAF171A6C926700C7B4A8 /* Images.xcassets */; };
 		3EACAF1B1A6C926700C7B4A8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3EACAF191A6C926700C7B4A8 /* LaunchScreen.xib */; };
-		3EACAF271A6C926700C7B4A8 /* LightBoardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF261A6C926700C7B4A8 /* LightBoardTests.m */; };
+		3EACAF3C1A6C935E00C7B4A8 /* GDataXMLNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF371A6C935E00C7B4A8 /* GDataXMLNode.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		3EACAF3D1A6C935E00C7B4A8 /* XmlNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF391A6C935E00C7B4A8 /* XmlNode.m */; };
+		3EACAF3E1A6C935E00C7B4A8 /* XmlParseHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF3B1A6C935E00C7B4A8 /* XmlParseHelper.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		3EACAF401A6C937600C7B4A8 /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EACAF3F1A6C937600C7B4A8 /* libxml2.dylib */; };
+		3EACAF421A6C937E00C7B4A8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EACAF411A6C937E00C7B4A8 /* UIKit.framework */; };
+		3EACAF441A6C938500C7B4A8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EACAF431A6C938500C7B4A8 /* Foundation.framework */; };
+		3EACAF461A6C938B00C7B4A8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EACAF451A6C938B00C7B4A8 /* CoreGraphics.framework */; };
+		3EACAF4B1A6C94B300C7B4A8 /* LBBasicViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF4A1A6C94B300C7B4A8 /* LBBasicViewController.m */; };
+		3EACAF4F1A6C95E900C7B4A8 /* wifi.xml in Resources */ = {isa = PBXBuildFile; fileRef = 3EACAF4E1A6C95E900C7B4A8 /* wifi.xml */; };
+		3EACAF541A6C9F7700C7B4A8 /* LightArea.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF531A6C9F7700C7B4A8 /* LightArea.m */; };
+		3EACAF571A6CA05300C7B4A8 /* LightScenes.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF561A6CA05300C7B4A8 /* LightScenes.m */; };
+		3EACAF5A1A6CA1D200C7B4A8 /* LightWIFI.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF591A6CA1D200C7B4A8 /* LightWIFI.m */; };
+		3EACAF5D1A6CA37F00C7B4A8 /* LightAreaGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF5C1A6CA37F00C7B4A8 /* LightAreaGroup.m */; };
+		3EACAF611A6CA47B00C7B4A8 /* LightWIFIManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF601A6CA47B00C7B4A8 /* LightWIFIManager.m */; };
+		3EACAF651A6CCBDC00C7B4A8 /* UINavigationBar+TPCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF641A6CCBDC00C7B4A8 /* UINavigationBar+TPCategory.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		3EACAF6A1A6CCC0300C7B4A8 /* UIImage+TPCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF671A6CCC0300C7B4A8 /* UIImage+TPCategory.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		3EACAF6B1A6CCC0300C7B4A8 /* UIColor+TPCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF691A6CCC0300C7B4A8 /* UIColor+TPCategory.m */; };
+		3EACAF701A6CD1A000C7B4A8 /* DXPopover.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF6F1A6CD1A000C7B4A8 /* DXPopover.m */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		3EACAF211A6C926700C7B4A8 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 3EACAEFF1A6C926700C7B4A8 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 3EACAF061A6C926700C7B4A8;
-			remoteInfo = LightBoard;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
+		3EA7CA1D1A6DFB5F00E470A6 /* LightScenesGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LightScenesGroup.h; sourceTree = "<group>"; };
+		3EA7CA1E1A6DFB5F00E470A6 /* LightScenesGroup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LightScenesGroup.m; sourceTree = "<group>"; };
+		3EA7CA201A6E014900E470A6 /* kDataDefineKey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = kDataDefineKey.h; sourceTree = "<group>"; };
+		3EA7CA211A6E05F400E470A6 /* NSString+TPCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+TPCategory.h"; sourceTree = "<group>"; };
+		3EA7CA221A6E05F400E470A6 /* NSString+TPCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+TPCategory.m"; sourceTree = "<group>"; };
+		3EA7CA251A6E099600E470A6 /* AreaGroupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AreaGroupViewController.h; sourceTree = "<group>"; };
+		3EA7CA261A6E099600E470A6 /* AreaGroupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AreaGroupViewController.m; sourceTree = "<group>"; };
+		3EA7CA281A6E0AAE00E470A6 /* AreaGroupCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AreaGroupCell.h; sourceTree = "<group>"; };
+		3EA7CA291A6E0AAE00E470A6 /* AreaGroupCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AreaGroupCell.m; sourceTree = "<group>"; };
+		3EA7CA2B1A6E0AC300E470A6 /* AreaGroupCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AreaGroupCell.xib; sourceTree = "<group>"; };
+		3EA7CA2E1A6E1AA800E470A6 /* WifiManger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WifiManger.h; sourceTree = "<group>"; };
+		3EA7CA2F1A6E1AA800E470A6 /* WifiManger.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WifiManger.m; sourceTree = "<group>"; };
+		3EA7CA311A6E1ACB00E470A6 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		3EA7CA331A6E1FFC00E470A6 /* wwanconnect.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = wwanconnect.c; sourceTree = "<group>"; };
+		3EA7CA341A6E1FFC00E470A6 /* wwanconnect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wwanconnect.h; sourceTree = "<group>"; };
+		3EA7CA361A6E205D00E470A6 /* UIDevice-Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIDevice-Reachability.h"; sourceTree = "<group>"; };
+		3EA7CA371A6E205D00E470A6 /* UIDevice-Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIDevice-Reachability.m"; sourceTree = "<group>"; };
+		3EA7CA521A6E310200E470A6 /* UIBarButtonItem+TPCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIBarButtonItem+TPCategory.h"; sourceTree = "<group>"; };
+		3EA7CA531A6E310200E470A6 /* UIBarButtonItem+TPCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+TPCategory.m"; sourceTree = "<group>"; };
 		3EACAF071A6C926700C7B4A8 /* LightBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LightBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EACAF0B1A6C926700C7B4A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3EACAF0C1A6C926700C7B4A8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3EACAF0E1A6C926700C7B4A8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		3EACAF0F1A6C926700C7B4A8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		3EACAF111A6C926700C7B4A8 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		3EACAF121A6C926700C7B4A8 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		3EACAF111A6C926700C7B4A8 /* HomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = HomeViewController.h; path = ../HomeViewController.h; sourceTree = "<group>"; };
+		3EACAF121A6C926700C7B4A8 /* HomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = HomeViewController.m; path = ../HomeViewController.m; sourceTree = "<group>"; };
 		3EACAF151A6C926700C7B4A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3EACAF171A6C926700C7B4A8 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		3EACAF1A1A6C926700C7B4A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		3EACAF201A6C926700C7B4A8 /* LightBoardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LightBoardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		3EACAF251A6C926700C7B4A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3EACAF261A6C926700C7B4A8 /* LightBoardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LightBoardTests.m; sourceTree = "<group>"; };
+		3EACAF341A6C935E00C7B4A8 /* GDataDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GDataDefines.h; sourceTree = "<group>"; };
+		3EACAF351A6C935E00C7B4A8 /* GDataTargetNamespace.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GDataTargetNamespace.h; sourceTree = "<group>"; };
+		3EACAF361A6C935E00C7B4A8 /* GDataXMLNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GDataXMLNode.h; sourceTree = "<group>"; };
+		3EACAF371A6C935E00C7B4A8 /* GDataXMLNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GDataXMLNode.m; sourceTree = "<group>"; };
+		3EACAF381A6C935E00C7B4A8 /* XmlNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XmlNode.h; sourceTree = "<group>"; };
+		3EACAF391A6C935E00C7B4A8 /* XmlNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XmlNode.m; sourceTree = "<group>"; };
+		3EACAF3A1A6C935E00C7B4A8 /* XmlParseHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XmlParseHelper.h; sourceTree = "<group>"; };
+		3EACAF3B1A6C935E00C7B4A8 /* XmlParseHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XmlParseHelper.m; sourceTree = "<group>"; };
+		3EACAF3F1A6C937600C7B4A8 /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
+		3EACAF411A6C937E00C7B4A8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		3EACAF431A6C938500C7B4A8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		3EACAF451A6C938B00C7B4A8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		3EACAF491A6C94B300C7B4A8 /* LBBasicViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LBBasicViewController.h; sourceTree = "<group>"; };
+		3EACAF4A1A6C94B300C7B4A8 /* LBBasicViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LBBasicViewController.m; sourceTree = "<group>"; };
+		3EACAF4E1A6C95E900C7B4A8 /* wifi.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = wifi.xml; sourceTree = "<group>"; };
+		3EACAF521A6C9F7700C7B4A8 /* LightArea.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LightArea.h; sourceTree = "<group>"; };
+		3EACAF531A6C9F7700C7B4A8 /* LightArea.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LightArea.m; sourceTree = "<group>"; };
+		3EACAF551A6CA05300C7B4A8 /* LightScenes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LightScenes.h; sourceTree = "<group>"; };
+		3EACAF561A6CA05300C7B4A8 /* LightScenes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LightScenes.m; sourceTree = "<group>"; };
+		3EACAF581A6CA1D200C7B4A8 /* LightWIFI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LightWIFI.h; sourceTree = "<group>"; };
+		3EACAF591A6CA1D200C7B4A8 /* LightWIFI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LightWIFI.m; sourceTree = "<group>"; };
+		3EACAF5B1A6CA37F00C7B4A8 /* LightAreaGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LightAreaGroup.h; sourceTree = "<group>"; };
+		3EACAF5C1A6CA37F00C7B4A8 /* LightAreaGroup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LightAreaGroup.m; sourceTree = "<group>"; };
+		3EACAF5F1A6CA47B00C7B4A8 /* LightWIFIManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LightWIFIManager.h; sourceTree = "<group>"; };
+		3EACAF601A6CA47B00C7B4A8 /* LightWIFIManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LightWIFIManager.m; sourceTree = "<group>"; };
+		3EACAF631A6CCBDC00C7B4A8 /* UINavigationBar+TPCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationBar+TPCategory.h"; sourceTree = "<group>"; };
+		3EACAF641A6CCBDC00C7B4A8 /* UINavigationBar+TPCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UINavigationBar+TPCategory.m"; sourceTree = "<group>"; };
+		3EACAF661A6CCC0300C7B4A8 /* UIImage+TPCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+TPCategory.h"; sourceTree = "<group>"; };
+		3EACAF671A6CCC0300C7B4A8 /* UIImage+TPCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+TPCategory.m"; sourceTree = "<group>"; };
+		3EACAF681A6CCC0300C7B4A8 /* UIColor+TPCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+TPCategory.h"; sourceTree = "<group>"; };
+		3EACAF691A6CCC0300C7B4A8 /* UIColor+TPCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+TPCategory.m"; sourceTree = "<group>"; };
+		3EACAF6C1A6CCE7D00C7B4A8 /* LightBoard-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "LightBoard-Prefix.pch"; sourceTree = "<group>"; };
+		3EACAF6E1A6CD1A000C7B4A8 /* DXPopover.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DXPopover.h; sourceTree = "<group>"; };
+		3EACAF6F1A6CD1A000C7B4A8 /* DXPopover.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DXPopover.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,24 +114,51 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3EACAF1D1A6C926700C7B4A8 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				3EA7CA321A6E1ACB00E470A6 /* SystemConfiguration.framework in Frameworks */,
+				3EACAF461A6C938B00C7B4A8 /* CoreGraphics.framework in Frameworks */,
+				3EACAF441A6C938500C7B4A8 /* Foundation.framework in Frameworks */,
+				3EACAF421A6C937E00C7B4A8 /* UIKit.framework in Frameworks */,
+				3EACAF401A6C937600C7B4A8 /* libxml2.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3EA7CA241A6E097700E470A6 /* Area */ = {
+			isa = PBXGroup;
+			children = (
+				3EA7CA251A6E099600E470A6 /* AreaGroupViewController.h */,
+				3EA7CA261A6E099600E470A6 /* AreaGroupViewController.m */,
+				3EA7CA281A6E0AAE00E470A6 /* AreaGroupCell.h */,
+				3EA7CA291A6E0AAE00E470A6 /* AreaGroupCell.m */,
+				3EA7CA2B1A6E0AC300E470A6 /* AreaGroupCell.xib */,
+			);
+			path = Area;
+			sourceTree = "<group>";
+		};
+		3EA7CA2D1A6E1A9200E470A6 /* WIFIManger */ = {
+			isa = PBXGroup;
+			children = (
+				3EA7CA361A6E205D00E470A6 /* UIDevice-Reachability.h */,
+				3EA7CA371A6E205D00E470A6 /* UIDevice-Reachability.m */,
+				3EA7CA331A6E1FFC00E470A6 /* wwanconnect.c */,
+				3EA7CA341A6E1FFC00E470A6 /* wwanconnect.h */,
+				3EA7CA2E1A6E1AA800E470A6 /* WifiManger.h */,
+				3EA7CA2F1A6E1AA800E470A6 /* WifiManger.m */,
+			);
+			path = WIFIManger;
+			sourceTree = "<group>";
+		};
 		3EACAEFE1A6C926700C7B4A8 = {
 			isa = PBXGroup;
 			children = (
+				3EA7CA311A6E1ACB00E470A6 /* SystemConfiguration.framework */,
+				3EACAF451A6C938B00C7B4A8 /* CoreGraphics.framework */,
+				3EACAF431A6C938500C7B4A8 /* Foundation.framework */,
+				3EACAF411A6C937E00C7B4A8 /* UIKit.framework */,
+				3EACAF3F1A6C937600C7B4A8 /* libxml2.dylib */,
 				3EACAF091A6C926700C7B4A8 /* LightBoard */,
-				3EACAF231A6C926700C7B4A8 /* LightBoardTests */,
 				3EACAF081A6C926700C7B4A8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -73,7 +167,6 @@
 			isa = PBXGroup;
 			children = (
 				3EACAF071A6C926700C7B4A8 /* LightBoard.app */,
-				3EACAF201A6C926700C7B4A8 /* LightBoardTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -81,10 +174,10 @@
 		3EACAF091A6C926700C7B4A8 /* LightBoard */ = {
 			isa = PBXGroup;
 			children = (
+				3EACAF471A6C949A00C7B4A8 /* UI */,
+				3EACAF311A6C931600C7B4A8 /* Class */,
 				3EACAF0E1A6C926700C7B4A8 /* AppDelegate.h */,
 				3EACAF0F1A6C926700C7B4A8 /* AppDelegate.m */,
-				3EACAF111A6C926700C7B4A8 /* ViewController.h */,
-				3EACAF121A6C926700C7B4A8 /* ViewController.m */,
 				3EACAF141A6C926700C7B4A8 /* Main.storyboard */,
 				3EACAF171A6C926700C7B4A8 /* Images.xcassets */,
 				3EACAF191A6C926700C7B4A8 /* LaunchScreen.xib */,
@@ -96,27 +189,145 @@
 		3EACAF0A1A6C926700C7B4A8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3EACAF4C1A6C959700C7B4A8 /* Recourse */,
 				3EACAF0B1A6C926700C7B4A8 /* Info.plist */,
 				3EACAF0C1A6C926700C7B4A8 /* main.m */,
+				3EACAF6C1A6CCE7D00C7B4A8 /* LightBoard-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		3EACAF231A6C926700C7B4A8 /* LightBoardTests */ = {
+		3EACAF311A6C931600C7B4A8 /* Class */ = {
 			isa = PBXGroup;
 			children = (
-				3EACAF261A6C926700C7B4A8 /* LightBoardTests.m */,
-				3EACAF241A6C926700C7B4A8 /* Supporting Files */,
+				3EACAF501A6C9F4A00C7B4A8 /* Logic */,
+				3EACAF321A6C931600C7B4A8 /* ThirdParty */,
 			);
-			path = LightBoardTests;
+			path = Class;
 			sourceTree = "<group>";
 		};
-		3EACAF241A6C926700C7B4A8 /* Supporting Files */ = {
+		3EACAF321A6C931600C7B4A8 /* ThirdParty */ = {
 			isa = PBXGroup;
 			children = (
-				3EACAF251A6C926700C7B4A8 /* Info.plist */,
+				3EACAF6D1A6CD1A000C7B4A8 /* DXPopover */,
+				3EACAF331A6C931600C7B4A8 /* CDataXml */,
 			);
-			name = "Supporting Files";
+			path = ThirdParty;
+			sourceTree = "<group>";
+		};
+		3EACAF331A6C931600C7B4A8 /* CDataXml */ = {
+			isa = PBXGroup;
+			children = (
+				3EACAF341A6C935E00C7B4A8 /* GDataDefines.h */,
+				3EACAF351A6C935E00C7B4A8 /* GDataTargetNamespace.h */,
+				3EACAF361A6C935E00C7B4A8 /* GDataXMLNode.h */,
+				3EACAF371A6C935E00C7B4A8 /* GDataXMLNode.m */,
+				3EACAF381A6C935E00C7B4A8 /* XmlNode.h */,
+				3EACAF391A6C935E00C7B4A8 /* XmlNode.m */,
+				3EACAF3A1A6C935E00C7B4A8 /* XmlParseHelper.h */,
+				3EACAF3B1A6C935E00C7B4A8 /* XmlParseHelper.m */,
+			);
+			path = CDataXml;
+			sourceTree = "<group>";
+		};
+		3EACAF471A6C949A00C7B4A8 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				3EACAF111A6C926700C7B4A8 /* HomeViewController.h */,
+				3EACAF121A6C926700C7B4A8 /* HomeViewController.m */,
+				3EA7CA241A6E097700E470A6 /* Area */,
+				3EACAF621A6CCBD300C7B4A8 /* Categories */,
+				3EACAF481A6C949A00C7B4A8 /* Common */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		3EACAF481A6C949A00C7B4A8 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				3EACAF491A6C94B300C7B4A8 /* LBBasicViewController.h */,
+				3EACAF4A1A6C94B300C7B4A8 /* LBBasicViewController.m */,
+				3EA7CA201A6E014900E470A6 /* kDataDefineKey.h */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		3EACAF4C1A6C959700C7B4A8 /* Recourse */ = {
+			isa = PBXGroup;
+			children = (
+				3EACAF4D1A6C959700C7B4A8 /* text */,
+			);
+			path = Recourse;
+			sourceTree = "<group>";
+		};
+		3EACAF4D1A6C959700C7B4A8 /* text */ = {
+			isa = PBXGroup;
+			children = (
+				3EACAF4E1A6C95E900C7B4A8 /* wifi.xml */,
+			);
+			path = text;
+			sourceTree = "<group>";
+		};
+		3EACAF501A6C9F4A00C7B4A8 /* Logic */ = {
+			isa = PBXGroup;
+			children = (
+				3EA7CA2D1A6E1A9200E470A6 /* WIFIManger */,
+				3EACAF5E1A6CA45B00C7B4A8 /* DAL */,
+				3EACAF511A6C9F4A00C7B4A8 /* model */,
+			);
+			path = Logic;
+			sourceTree = "<group>";
+		};
+		3EACAF511A6C9F4A00C7B4A8 /* model */ = {
+			isa = PBXGroup;
+			children = (
+				3EACAF521A6C9F7700C7B4A8 /* LightArea.h */,
+				3EACAF531A6C9F7700C7B4A8 /* LightArea.m */,
+				3EACAF551A6CA05300C7B4A8 /* LightScenes.h */,
+				3EACAF561A6CA05300C7B4A8 /* LightScenes.m */,
+				3EACAF581A6CA1D200C7B4A8 /* LightWIFI.h */,
+				3EACAF591A6CA1D200C7B4A8 /* LightWIFI.m */,
+				3EACAF5B1A6CA37F00C7B4A8 /* LightAreaGroup.h */,
+				3EACAF5C1A6CA37F00C7B4A8 /* LightAreaGroup.m */,
+				3EA7CA1D1A6DFB5F00E470A6 /* LightScenesGroup.h */,
+				3EA7CA1E1A6DFB5F00E470A6 /* LightScenesGroup.m */,
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		3EACAF5E1A6CA45B00C7B4A8 /* DAL */ = {
+			isa = PBXGroup;
+			children = (
+				3EACAF5F1A6CA47B00C7B4A8 /* LightWIFIManager.h */,
+				3EACAF601A6CA47B00C7B4A8 /* LightWIFIManager.m */,
+			);
+			path = DAL;
+			sourceTree = "<group>";
+		};
+		3EACAF621A6CCBD300C7B4A8 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				3EA7CA521A6E310200E470A6 /* UIBarButtonItem+TPCategory.h */,
+				3EA7CA531A6E310200E470A6 /* UIBarButtonItem+TPCategory.m */,
+				3EA7CA211A6E05F400E470A6 /* NSString+TPCategory.h */,
+				3EA7CA221A6E05F400E470A6 /* NSString+TPCategory.m */,
+				3EACAF661A6CCC0300C7B4A8 /* UIImage+TPCategory.h */,
+				3EACAF671A6CCC0300C7B4A8 /* UIImage+TPCategory.m */,
+				3EACAF681A6CCC0300C7B4A8 /* UIColor+TPCategory.h */,
+				3EACAF691A6CCC0300C7B4A8 /* UIColor+TPCategory.m */,
+				3EACAF631A6CCBDC00C7B4A8 /* UINavigationBar+TPCategory.h */,
+				3EACAF641A6CCBDC00C7B4A8 /* UINavigationBar+TPCategory.m */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		3EACAF6D1A6CD1A000C7B4A8 /* DXPopover */ = {
+			isa = PBXGroup;
+			children = (
+				3EACAF6E1A6CD1A000C7B4A8 /* DXPopover.h */,
+				3EACAF6F1A6CD1A000C7B4A8 /* DXPopover.m */,
+			);
+			path = DXPopover;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,24 +350,6 @@
 			productReference = 3EACAF071A6C926700C7B4A8 /* LightBoard.app */;
 			productType = "com.apple.product-type.application";
 		};
-		3EACAF1F1A6C926700C7B4A8 /* LightBoardTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 3EACAF2D1A6C926700C7B4A8 /* Build configuration list for PBXNativeTarget "LightBoardTests" */;
-			buildPhases = (
-				3EACAF1C1A6C926700C7B4A8 /* Sources */,
-				3EACAF1D1A6C926700C7B4A8 /* Frameworks */,
-				3EACAF1E1A6C926700C7B4A8 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				3EACAF221A6C926700C7B4A8 /* PBXTargetDependency */,
-			);
-			name = LightBoardTests;
-			productName = LightBoardTests;
-			productReference = 3EACAF201A6C926700C7B4A8 /* LightBoardTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -168,10 +361,6 @@
 				TargetAttributes = {
 					3EACAF061A6C926700C7B4A8 = {
 						CreatedOnToolsVersion = 6.1;
-					};
-					3EACAF1F1A6C926700C7B4A8 = {
-						CreatedOnToolsVersion = 6.1;
-						TestTargetID = 3EACAF061A6C926700C7B4A8;
 					};
 				};
 			};
@@ -189,7 +378,6 @@
 			projectRoot = "";
 			targets = (
 				3EACAF061A6C926700C7B4A8 /* LightBoard */,
-				3EACAF1F1A6C926700C7B4A8 /* LightBoardTests */,
 			);
 		};
 /* End PBXProject section */
@@ -201,14 +389,9 @@
 			files = (
 				3EACAF161A6C926700C7B4A8 /* Main.storyboard in Resources */,
 				3EACAF1B1A6C926700C7B4A8 /* LaunchScreen.xib in Resources */,
+				3EACAF4F1A6C95E900C7B4A8 /* wifi.xml in Resources */,
+				3EA7CA2C1A6E0AC300E470A6 /* AreaGroupCell.xib in Resources */,
 				3EACAF181A6C926700C7B4A8 /* Images.xcassets in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3EACAF1E1A6C926700C7B4A8 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,29 +402,34 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3EACAF131A6C926700C7B4A8 /* ViewController.m in Sources */,
+				3EA7CA2A1A6E0AAE00E470A6 /* AreaGroupCell.m in Sources */,
+				3EACAF131A6C926700C7B4A8 /* HomeViewController.m in Sources */,
+				3EACAF6A1A6CCC0300C7B4A8 /* UIImage+TPCategory.m in Sources */,
+				3EACAF571A6CA05300C7B4A8 /* LightScenes.m in Sources */,
+				3EACAF4B1A6C94B300C7B4A8 /* LBBasicViewController.m in Sources */,
+				3EACAF651A6CCBDC00C7B4A8 /* UINavigationBar+TPCategory.m in Sources */,
+				3EACAF3D1A6C935E00C7B4A8 /* XmlNode.m in Sources */,
+				3EACAF3C1A6C935E00C7B4A8 /* GDataXMLNode.m in Sources */,
+				3EACAF5A1A6CA1D200C7B4A8 /* LightWIFI.m in Sources */,
+				3EACAF6B1A6CCC0300C7B4A8 /* UIColor+TPCategory.m in Sources */,
+				3EA7CA541A6E310200E470A6 /* UIBarButtonItem+TPCategory.m in Sources */,
+				3EA7CA231A6E05F400E470A6 /* NSString+TPCategory.m in Sources */,
+				3EACAF541A6C9F7700C7B4A8 /* LightArea.m in Sources */,
 				3EACAF101A6C926700C7B4A8 /* AppDelegate.m in Sources */,
+				3EA7CA1F1A6DFB5F00E470A6 /* LightScenesGroup.m in Sources */,
 				3EACAF0D1A6C926700C7B4A8 /* main.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3EACAF1C1A6C926700C7B4A8 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3EACAF271A6C926700C7B4A8 /* LightBoardTests.m in Sources */,
+				3EA7CA271A6E099600E470A6 /* AreaGroupViewController.m in Sources */,
+				3EA7CA301A6E1AA800E470A6 /* WifiManger.m in Sources */,
+				3EA7CA381A6E205D00E470A6 /* UIDevice-Reachability.m in Sources */,
+				3EACAF5D1A6CA37F00C7B4A8 /* LightAreaGroup.m in Sources */,
+				3EACAF701A6CD1A000C7B4A8 /* DXPopover.m in Sources */,
+				3EACAF3E1A6C935E00C7B4A8 /* XmlParseHelper.m in Sources */,
+				3EACAF611A6CA47B00C7B4A8 /* LightWIFIManager.m in Sources */,
+				3EA7CA351A6E1FFC00E470A6 /* wwanconnect.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		3EACAF221A6C926700C7B4A8 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 3EACAF061A6C926700C7B4A8 /* LightBoard */;
-			targetProxy = 3EACAF211A6C926700C7B4A8 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		3EACAF141A6C926700C7B4A8 /* Main.storyboard */ = {
@@ -286,6 +474,7 @@
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREFIX_HEADER = "LightBoard/LightBoard-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
@@ -297,7 +486,12 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					/usr/include/libxml2,
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -326,13 +520,19 @@
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREFIX_HEADER = "LightBoard/LightBoard-Prefix.pch";
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					/usr/include/libxml2,
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -343,9 +543,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: yanling zhang (C8684SUZ22)";
 				INFOPLIST_FILE = LightBoard/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "f179633e-0803-4ba2-a651-b70230a5dd9f";
 			};
 			name = Debug;
 		};
@@ -353,43 +556,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: yanling zhang (C8684SUZ22)";
 				INFOPLIST_FILE = LightBoard/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-			};
-			name = Release;
-		};
-		3EACAF2E1A6C926700C7B4A8 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				INFOPLIST_FILE = LightBoardTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LightBoard.app/LightBoard";
-			};
-			name = Debug;
-		};
-		3EACAF2F1A6C926700C7B4A8 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				INFOPLIST_FILE = LightBoardTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LightBoard.app/LightBoard";
+				PROVISIONING_PROFILE = "f179633e-0803-4ba2-a651-b70230a5dd9f";
 			};
 			name = Release;
 		};
@@ -412,14 +584,7 @@
 				3EACAF2C1A6C926700C7B4A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-		};
-		3EACAF2D1A6C926700C7B4A8 /* Build configuration list for PBXNativeTarget "LightBoardTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				3EACAF2E1A6C926700C7B4A8 /* Debug */,
-				3EACAF2F1A6C926700C7B4A8 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

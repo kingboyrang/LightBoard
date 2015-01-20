@@ -1,0 +1,4643 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+  <Wifi>
+    <areas>
+      <Area>
+        <groups>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>0</groupId>
+                <groupid>0</groupid>
+                <driverid>0</driverid>
+                <id>0</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>0</groupId>
+                <groupid>0</groupid>
+                <driverid>1</driverid>
+                <id>1</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>0</groupId>
+                <groupid>0</groupid>
+                <driverid>2</driverid>
+                <id>2</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>0</groupId>
+                <groupid>0</groupid>
+                <driverid>5</driverid>
+                <id>5</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>0</groupId>
+                <groupid>0</groupid>
+                <driverid>6</driverid>
+                <id>6</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>0</groupId>
+                <groupid>0</groupid>
+                <driverid>9</driverid>
+                <id>9</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>0</groupId>
+                <groupid>0</groupid>
+                <driverid>10</driverid>
+                <id>10</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupid>0</groupid>
+            <id>0</id>
+            <groupname>Conference Room A</groupname>
+            <name>Conference Room A</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>1</groupId>
+                <groupid>1</groupid>
+                <driverid>3</driverid>
+                <id>3</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>1</groupId>
+                <groupid>1</groupid>
+                <driverid>4</driverid>
+                <id>4</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>1</groupId>
+                <groupid>1</groupid>
+                <driverid>7</driverid>
+                <id>7</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>1</groupId>
+                <groupid>1</groupid>
+                <driverid>8</driverid>
+                <id>8</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupid>1</groupid>
+            <id>1</id>
+            <groupname>Conference Room B</groupname>
+            <name>Conference Room B</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps />
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupid>2</groupid>
+            <id>2</id>
+            <groupname>Conference Room</groupname>
+            <name>Conference Room</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>3</groupId>
+                <groupid>3</groupid>
+                <driverid>11</driverid>
+                <id>11</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>3</groupId>
+                <groupid>3</groupid>
+                <driverid>12</driverid>
+                <id>12</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>3</groupId>
+                <groupid>3</groupid>
+                <driverid>13</driverid>
+                <id>13</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>3</groupId>
+                <groupid>3</groupid>
+                <driverid>14</driverid>
+                <id>14</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>3</groupId>
+                <groupid>3</groupid>
+                <driverid>15</driverid>
+                <id>15</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>3</groupId>
+                <groupid>3</groupid>
+                <driverid>16</driverid>
+                <id>16</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>3</groupId>
+                <groupid>3</groupid>
+                <driverid>17</driverid>
+                <id>17</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>3</groupId>
+                <groupid>3</groupid>
+                <driverid>18</driverid>
+                <id>18</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupid>3</groupid>
+            <id>3</id>
+            <groupname>Reception</groupname>
+            <name>Reception</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>4</groupId>
+                <groupid>4</groupid>
+                <driverid>19</driverid>
+                <id>19</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupid>4</groupid>
+            <id>4</id>
+            <groupname>Amperor Mark</groupname>
+            <name>Amperor Mark</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps />
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupid>5</groupid>
+            <id>5</id>
+            <groupname>Motion Sensor 1</groupname>
+            <name>Motion Sensor 1</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps />
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupid>6</groupid>
+            <id>6</id>
+            <groupname>Motion Sensor 2</groupname>
+            <name>Motion Sensor 2</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>7</groupId>
+                <groupid>7</groupid>
+                <driverid>42</driverid>
+                <id>42</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>7</groupId>
+                <groupid>7</groupid>
+                <driverid>43</driverid>
+                <id>43</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>7</groupId>
+                <groupid>7</groupid>
+                <driverid>44</driverid>
+                <id>44</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupid>7</groupid>
+            <id>7</id>
+            <groupname>Manager Office</groupname>
+            <name>Manager Office</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps />
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupid>9</groupid>
+            <id>9</id>
+            <groupname>Lavatory</groupname>
+            <name>Lavatory</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps />
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupid>10</groupid>
+            <id>10</id>
+            <groupname>Reception 1</groupname>
+            <name>Reception 1</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps />
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupid>11</groupid>
+            <id>11</id>
+            <groupname>Reception 2</groupname>
+            <name>Reception 2</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps />
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupid>12</groupid>
+            <id>12</id>
+            <groupname>Reception 3</groupname>
+            <name>Reception 3</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps />
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupid>13</groupid>
+            <id>13</id>
+            <groupname>Reception 4</groupname>
+            <name>Reception 4</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>14</groupId>
+                <groupid>14</groupid>
+                <driverid>20</driverid>
+                <id>20</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>14</groupId>
+                <groupid>14</groupid>
+                <driverid>21</driverid>
+                <id>21</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>14</groupId>
+                <groupid>14</groupid>
+                <driverid>22</driverid>
+                <id>22</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>14</groupId>
+                <groupid>14</groupid>
+                <driverid>23</driverid>
+                <id>23</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>14</groupId>
+                <groupid>14</groupid>
+                <driverid>24</driverid>
+                <id>24</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupid>14</groupid>
+            <id>14</id>
+            <groupname>Lobby</groupname>
+            <name>Lobby</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>HI-LINK_8139</wifiname>
+                <zonename>1F Zone A</zonename>
+                <areaname>1F Zone A</areaname>
+                <groupId>15</groupId>
+                <groupid>15</groupid>
+                <driverid>25</driverid>
+                <id>25</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupid>15</groupid>
+            <id>15</id>
+            <groupname>Elevator</groupname>
+            <name>Elevator</name>
+            <status>0</status>
+          </Group>
+        </groups>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <name>1F Zone A</name>
+      </Area>
+    </areas>
+    <scenes>
+      <Scene>
+        <sceneid>0</sceneid>
+        <id>0</id>
+        <wifiname>HI-LINK_8139</wifiname>
+        <scenename>NightTime</scenename>
+        <name>NightTime</name>
+        <zonename>1F Zone A</zonename>
+        <areaName>1F Zone A</areaName>
+        <grouplist>0,10;1,20</grouplist>
+        <groups>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>0</groupId>
+            <brightness>10</brightness>
+          </SceneGroup>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>1</groupId>
+            <brightness>20</brightness>
+          </SceneGroup>
+        </groups>
+      </Scene>
+      <Scene>
+        <sceneid>1</sceneid>
+        <id>1</id>
+        <wifiname>HI-LINK_8139</wifiname>
+        <scenename>Dark</scenename>
+        <name>Dark</name>
+        <zonename>1F Zone A</zonename>
+        <areaName>1F Zone A</areaName>
+        <grouplist>0,10</grouplist>
+        <groups>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>0</groupId>
+            <brightness>10</brightness>
+          </SceneGroup>
+        </groups>
+      </Scene>
+      <Scene>
+        <sceneid>2</sceneid>
+        <id>2</id>
+        <wifiname>HI-LINK_8139</wifiname>
+        <scenename>Soft</scenename>
+        <name>Soft</name>
+        <zonename>1F Zone A</zonename>
+        <areaName>1F Zone A</areaName>
+        <grouplist>0,10;1,20</grouplist>
+        <groups>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>0</groupId>
+            <brightness>10</brightness>
+          </SceneGroup>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>1</groupId>
+            <brightness>20</brightness>
+          </SceneGroup>
+        </groups>
+      </Scene>
+      <Scene>
+        <sceneid>3</sceneid>
+        <id>3</id>
+        <wifiname>HI-LINK_8139</wifiname>
+        <scenename>Bright</scenename>
+        <name>Bright</name>
+        <zonename>1F Zone A</zonename>
+        <areaName>1F Zone A</areaName>
+        <grouplist>0,10;1,20</grouplist>
+        <groups>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>0</groupId>
+            <brightness>10</brightness>
+          </SceneGroup>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>1</groupId>
+            <brightness>20</brightness>
+          </SceneGroup>
+        </groups>
+      </Scene>
+    </scenes>
+    <timings>
+      <Timing>
+        <wifiname>HI-LINK_8139</wifiname>
+        <eventname>Sign On</eventname>
+        <name>Sign On</name>
+        <eventtime>18:00</eventtime>
+        <time>18:00</time>
+        <sceneId>-1</sceneId>
+        <groupId>4</groupId>
+        <groupBrightness>255</groupBrightness>
+      </Timing>
+    </timings>
+    <wifiname>HI-LINK_8139</wifiname>
+    <name>HI-LINK_8139</name>
+    <password>12345678</password>
+    <port>8080</port>
+    <drivers>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>0</groupId>
+        <groupid>0</groupid>
+        <driverid>0</driverid>
+        <id>0</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>0</groupId>
+        <groupid>0</groupid>
+        <driverid>1</driverid>
+        <id>1</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>0</groupId>
+        <groupid>0</groupid>
+        <driverid>2</driverid>
+        <id>2</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>0</groupId>
+        <groupid>0</groupid>
+        <driverid>5</driverid>
+        <id>5</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>0</groupId>
+        <groupid>0</groupid>
+        <driverid>6</driverid>
+        <id>6</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>0</groupId>
+        <groupid>0</groupid>
+        <driverid>9</driverid>
+        <id>9</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>0</groupId>
+        <groupid>0</groupid>
+        <driverid>10</driverid>
+        <id>10</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>1</groupId>
+        <groupid>1</groupid>
+        <driverid>3</driverid>
+        <id>3</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>1</groupId>
+        <groupid>1</groupid>
+        <driverid>4</driverid>
+        <id>4</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>1</groupId>
+        <groupid>1</groupid>
+        <driverid>7</driverid>
+        <id>7</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>1</groupId>
+        <groupid>1</groupid>
+        <driverid>8</driverid>
+        <id>8</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>3</groupId>
+        <groupid>3</groupid>
+        <driverid>11</driverid>
+        <id>11</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>3</groupId>
+        <groupid>3</groupid>
+        <driverid>12</driverid>
+        <id>12</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>3</groupId>
+        <groupid>3</groupid>
+        <driverid>13</driverid>
+        <id>13</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>3</groupId>
+        <groupid>3</groupid>
+        <driverid>14</driverid>
+        <id>14</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>3</groupId>
+        <groupid>3</groupid>
+        <driverid>15</driverid>
+        <id>15</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>3</groupId>
+        <groupid>3</groupid>
+        <driverid>16</driverid>
+        <id>16</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>3</groupId>
+        <groupid>3</groupid>
+        <driverid>17</driverid>
+        <id>17</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>3</groupId>
+        <groupid>3</groupid>
+        <driverid>18</driverid>
+        <id>18</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>4</groupId>
+        <groupid>4</groupid>
+        <driverid>19</driverid>
+        <id>19</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>7</groupId>
+        <groupid>7</groupid>
+        <driverid>42</driverid>
+        <id>42</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>7</groupId>
+        <groupid>7</groupid>
+        <driverid>43</driverid>
+        <id>43</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>7</groupId>
+        <groupid>7</groupid>
+        <driverid>44</driverid>
+        <id>44</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>14</groupId>
+        <groupid>14</groupid>
+        <driverid>20</driverid>
+        <id>20</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>14</groupId>
+        <groupid>14</groupid>
+        <driverid>21</driverid>
+        <id>21</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>14</groupId>
+        <groupid>14</groupid>
+        <driverid>22</driverid>
+        <id>22</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>14</groupId>
+        <groupid>14</groupid>
+        <driverid>23</driverid>
+        <id>23</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>14</groupId>
+        <groupid>14</groupid>
+        <driverid>24</driverid>
+        <id>24</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupId>15</groupId>
+        <groupid>15</groupid>
+        <driverid>25</driverid>
+        <id>25</id>
+        <status>0</status>
+      </Lamp>
+    </drivers>
+    <groups>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>0</groupId>
+            <groupid>0</groupid>
+            <driverid>0</driverid>
+            <id>0</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>0</groupId>
+            <groupid>0</groupid>
+            <driverid>1</driverid>
+            <id>1</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>0</groupId>
+            <groupid>0</groupid>
+            <driverid>2</driverid>
+            <id>2</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>0</groupId>
+            <groupid>0</groupid>
+            <driverid>5</driverid>
+            <id>5</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>0</groupId>
+            <groupid>0</groupid>
+            <driverid>6</driverid>
+            <id>6</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>0</groupId>
+            <groupid>0</groupid>
+            <driverid>9</driverid>
+            <id>9</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>0</groupId>
+            <groupid>0</groupid>
+            <driverid>10</driverid>
+            <id>10</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupid>0</groupid>
+        <id>0</id>
+        <groupname>Conference Room A</groupname>
+        <name>Conference Room A</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>1</groupId>
+            <groupid>1</groupid>
+            <driverid>3</driverid>
+            <id>3</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>1</groupId>
+            <groupid>1</groupid>
+            <driverid>4</driverid>
+            <id>4</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>1</groupId>
+            <groupid>1</groupid>
+            <driverid>7</driverid>
+            <id>7</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>1</groupId>
+            <groupid>1</groupid>
+            <driverid>8</driverid>
+            <id>8</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupid>1</groupid>
+        <id>1</id>
+        <groupname>Conference Room B</groupname>
+        <name>Conference Room B</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps />
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupid>2</groupid>
+        <id>2</id>
+        <groupname>Conference Room</groupname>
+        <name>Conference Room</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>3</groupId>
+            <groupid>3</groupid>
+            <driverid>11</driverid>
+            <id>11</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>3</groupId>
+            <groupid>3</groupid>
+            <driverid>12</driverid>
+            <id>12</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>3</groupId>
+            <groupid>3</groupid>
+            <driverid>13</driverid>
+            <id>13</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>3</groupId>
+            <groupid>3</groupid>
+            <driverid>14</driverid>
+            <id>14</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>3</groupId>
+            <groupid>3</groupid>
+            <driverid>15</driverid>
+            <id>15</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>3</groupId>
+            <groupid>3</groupid>
+            <driverid>16</driverid>
+            <id>16</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>3</groupId>
+            <groupid>3</groupid>
+            <driverid>17</driverid>
+            <id>17</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>3</groupId>
+            <groupid>3</groupid>
+            <driverid>18</driverid>
+            <id>18</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupid>3</groupid>
+        <id>3</id>
+        <groupname>Reception</groupname>
+        <name>Reception</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>4</groupId>
+            <groupid>4</groupid>
+            <driverid>19</driverid>
+            <id>19</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupid>4</groupid>
+        <id>4</id>
+        <groupname>Amperor Mark</groupname>
+        <name>Amperor Mark</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps />
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupid>5</groupid>
+        <id>5</id>
+        <groupname>Motion Sensor 1</groupname>
+        <name>Motion Sensor 1</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps />
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupid>6</groupid>
+        <id>6</id>
+        <groupname>Motion Sensor 2</groupname>
+        <name>Motion Sensor 2</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>7</groupId>
+            <groupid>7</groupid>
+            <driverid>42</driverid>
+            <id>42</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>7</groupId>
+            <groupid>7</groupid>
+            <driverid>43</driverid>
+            <id>43</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>7</groupId>
+            <groupid>7</groupid>
+            <driverid>44</driverid>
+            <id>44</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupid>7</groupid>
+        <id>7</id>
+        <groupname>Manager Office</groupname>
+        <name>Manager Office</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps />
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupid>9</groupid>
+        <id>9</id>
+        <groupname>Lavatory</groupname>
+        <name>Lavatory</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps />
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupid>10</groupid>
+        <id>10</id>
+        <groupname>Reception 1</groupname>
+        <name>Reception 1</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps />
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupid>11</groupid>
+        <id>11</id>
+        <groupname>Reception 2</groupname>
+        <name>Reception 2</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps />
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupid>12</groupid>
+        <id>12</id>
+        <groupname>Reception 3</groupname>
+        <name>Reception 3</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps />
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupid>13</groupid>
+        <id>13</id>
+        <groupname>Reception 4</groupname>
+        <name>Reception 4</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>14</groupId>
+            <groupid>14</groupid>
+            <driverid>20</driverid>
+            <id>20</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>14</groupId>
+            <groupid>14</groupid>
+            <driverid>21</driverid>
+            <id>21</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>14</groupId>
+            <groupid>14</groupid>
+            <driverid>22</driverid>
+            <id>22</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>14</groupId>
+            <groupid>14</groupid>
+            <driverid>23</driverid>
+            <id>23</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>14</groupId>
+            <groupid>14</groupid>
+            <driverid>24</driverid>
+            <id>24</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupid>14</groupid>
+        <id>14</id>
+        <groupname>Lobby</groupname>
+        <name>Lobby</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>HI-LINK_8139</wifiname>
+            <zonename>1F Zone A</zonename>
+            <areaname>1F Zone A</areaname>
+            <groupId>15</groupId>
+            <groupid>15</groupid>
+            <driverid>25</driverid>
+            <id>25</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>HI-LINK_8139</wifiname>
+        <zonename>1F Zone A</zonename>
+        <areaname>1F Zone A</areaname>
+        <groupid>15</groupid>
+        <id>15</id>
+        <groupname>Elevator</groupname>
+        <name>Elevator</name>
+        <status>0</status>
+      </Group>
+    </groups>
+  </Wifi>
+  <Wifi>
+    <areas>
+      <Area>
+        <groups>
+          <Group>
+            <lamps />
+            <wifiname>HI-LINK_8123</wifiname>
+            <zonename>1F Zone B</zonename>
+            <areaname>1F Zone B</areaname>
+            <groupid>8</groupid>
+            <id>8</id>
+            <groupname>ADM office</groupname>
+            <name>ADM office</name>
+            <status>0</status>
+          </Group>
+        </groups>
+        <wifiname>HI-LINK_8123</wifiname>
+        <zonename>1F Zone B</zonename>
+        <name>1F Zone B</name>
+      </Area>
+    </areas>
+    <scenes>
+      <Scene>
+        <sceneid>0</sceneid>
+        <id>0</id>
+        <wifiname>HI-LINK_8123</wifiname>
+        <scenename>Sence1</scenename>
+        <name>Sence1</name>
+        <zonename>1F Zone B</zonename>
+        <areaName>1F Zone B</areaName>
+        <grouplist>0,10;1,20</grouplist>
+        <groups>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>0</groupId>
+            <brightness>10</brightness>
+          </SceneGroup>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>1</groupId>
+            <brightness>20</brightness>
+          </SceneGroup>
+        </groups>
+      </Scene>
+      <Scene>
+        <sceneid>1</sceneid>
+        <id>1</id>
+        <wifiname>HI-LINK_8123</wifiname>
+        <scenename>Sence2</scenename>
+        <name>Sence2</name>
+        <zonename>1F Zone B</zonename>
+        <areaName>1F Zone B</areaName>
+        <grouplist>0,10;1,20</grouplist>
+        <groups>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>0</groupId>
+            <brightness>10</brightness>
+          </SceneGroup>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>1</groupId>
+            <brightness>20</brightness>
+          </SceneGroup>
+        </groups>
+      </Scene>
+    </scenes>
+    <timings />
+    <wifiname>HI-LINK_8123</wifiname>
+    <name>HI-LINK_8123</name>
+    <password>12345678</password>
+    <port>8080</port>
+    <drivers />
+    <groups>
+      <Group>
+        <lamps />
+        <wifiname>HI-LINK_8123</wifiname>
+        <zonename>1F Zone B</zonename>
+        <areaname>1F Zone B</areaname>
+        <groupid>8</groupid>
+        <id>8</id>
+        <groupname>ADM office</groupname>
+        <name>ADM office</name>
+        <status>0</status>
+      </Group>
+    </groups>
+  </Wifi>
+  <Wifi>
+    <areas>
+      <Area>
+        <groups>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>0</groupId>
+                <groupid>0</groupid>
+                <driverid>0</driverid>
+                <id>0</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>0</groupId>
+                <groupid>0</groupid>
+                <driverid>1</driverid>
+                <id>1</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>0</groupId>
+                <groupid>0</groupid>
+                <driverid>2</driverid>
+                <id>2</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>0</groupId>
+                <groupid>0</groupid>
+                <driverid>3</driverid>
+                <id>3</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>0</groupId>
+                <groupid>0</groupid>
+                <driverid>16</driverid>
+                <id>16</id>
+              </Lamp>
+            </lamps>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupid>0</groupid>
+            <id>0</id>
+            <groupname>5F Path</groupname>
+            <name>5F Path</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>1</groupId>
+                <groupid>1</groupid>
+                <driverid>7</driverid>
+                <id>7</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>1</groupId>
+                <groupid>1</groupid>
+                <driverid>8</driverid>
+                <id>8</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>1</groupId>
+                <groupid>1</groupid>
+                <driverid>9</driverid>
+                <id>9</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupid>1</groupid>
+            <id>1</id>
+            <groupname>Conference Room</groupname>
+            <name>Conference Room</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>2</groupId>
+                <groupid>2</groupid>
+                <driverid>11</driverid>
+                <id>11</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupid>2</groupid>
+            <id>2</id>
+            <groupname>R501</groupname>
+            <name>R501</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>3</groupId>
+                <groupid>3</groupid>
+                <driverid>14</driverid>
+                <id>14</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupid>3</groupid>
+            <id>3</id>
+            <groupname>R502</groupname>
+            <name>R502</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>4</groupId>
+                <groupid>4</groupid>
+                <driverid>4</driverid>
+                <id>4</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>4</groupId>
+                <groupid>4</groupid>
+                <driverid>5</driverid>
+                <id>5</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>4</groupId>
+                <groupid>4</groupid>
+                <driverid>6</driverid>
+                <id>6</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupid>4</groupid>
+            <id>4</id>
+            <groupname>Track Light</groupname>
+            <name>Track Light</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>5</groupId>
+                <groupid>5</groupid>
+                <driverid>10</driverid>
+                <id>10</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupid>5</groupid>
+            <id>5</id>
+            <groupname>R501 Bathroom</groupname>
+            <name>R501 Bathroom</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>6</groupId>
+                <groupid>6</groupid>
+                <driverid>15</driverid>
+                <id>15</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupid>6</groupid>
+            <id>6</id>
+            <groupname>R502 Bathroom</groupname>
+            <name>R502 Bathroom</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>7</groupId>
+                <groupid>7</groupid>
+                <driverid>12</driverid>
+                <id>12</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>HI-LINK_8118</wifiname>
+                <zonename>5F Zone C</zonename>
+                <areaname>5F Zone C</areaname>
+                <groupId>7</groupId>
+                <groupid>7</groupid>
+                <driverid>13</driverid>
+                <id>13</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupid>7</groupid>
+            <id>7</id>
+            <groupname>Balcony</groupname>
+            <name>Balcony</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps />
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupid>8</groupid>
+            <id>8</id>
+            <groupname>Motion Sensor</groupname>
+            <name>Motion Sensor</name>
+            <status>0</status>
+          </Group>
+        </groups>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <name>5F Zone C</name>
+      </Area>
+    </areas>
+    <scenes>
+      <Scene>
+        <sceneid>0</sceneid>
+        <id>0</id>
+        <wifiname>HI-LINK_8118</wifiname>
+        <scenename>Sence3</scenename>
+        <name>Sence3</name>
+        <zonename>5F Zone C</zonename>
+        <areaName>5F Zone C</areaName>
+        <grouplist>0,10;1,20</grouplist>
+        <groups>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>0</groupId>
+            <brightness>10</brightness>
+          </SceneGroup>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>1</groupId>
+            <brightness>20</brightness>
+          </SceneGroup>
+        </groups>
+      </Scene>
+      <Scene>
+        <sceneid>1</sceneid>
+        <id>1</id>
+        <wifiname>HI-LINK_8118</wifiname>
+        <scenename>Sence4</scenename>
+        <name>Sence4</name>
+        <zonename>5F Zone C</zonename>
+        <areaName>5F Zone C</areaName>
+        <grouplist>0,10;1,20</grouplist>
+        <groups>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>0</groupId>
+            <brightness>10</brightness>
+          </SceneGroup>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>1</groupId>
+            <brightness>20</brightness>
+          </SceneGroup>
+        </groups>
+      </Scene>
+    </scenes>
+    <timings />
+    <wifiname>HI-LINK_8118</wifiname>
+    <name>HI-LINK_8118</name>
+    <password>12345678</password>
+    <port>8080</port>
+    <drivers>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>0</groupId>
+        <groupid>0</groupid>
+        <driverid>0</driverid>
+        <id>0</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>0</groupId>
+        <groupid>0</groupid>
+        <driverid>1</driverid>
+        <id>1</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>0</groupId>
+        <groupid>0</groupid>
+        <driverid>2</driverid>
+        <id>2</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>0</groupId>
+        <groupid>0</groupid>
+        <driverid>3</driverid>
+        <id>3</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>0</groupId>
+        <groupid>0</groupid>
+        <driverid>16</driverid>
+        <id>16</id>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>1</groupId>
+        <groupid>1</groupid>
+        <driverid>7</driverid>
+        <id>7</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>1</groupId>
+        <groupid>1</groupid>
+        <driverid>8</driverid>
+        <id>8</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>1</groupId>
+        <groupid>1</groupid>
+        <driverid>9</driverid>
+        <id>9</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>2</groupId>
+        <groupid>2</groupid>
+        <driverid>11</driverid>
+        <id>11</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>3</groupId>
+        <groupid>3</groupid>
+        <driverid>14</driverid>
+        <id>14</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>4</groupId>
+        <groupid>4</groupid>
+        <driverid>4</driverid>
+        <id>4</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>4</groupId>
+        <groupid>4</groupid>
+        <driverid>5</driverid>
+        <id>5</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>4</groupId>
+        <groupid>4</groupid>
+        <driverid>6</driverid>
+        <id>6</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>5</groupId>
+        <groupid>5</groupid>
+        <driverid>10</driverid>
+        <id>10</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>6</groupId>
+        <groupid>6</groupid>
+        <driverid>15</driverid>
+        <id>15</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>7</groupId>
+        <groupid>7</groupid>
+        <driverid>12</driverid>
+        <id>12</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupId>7</groupId>
+        <groupid>7</groupid>
+        <driverid>13</driverid>
+        <id>13</id>
+        <status>0</status>
+      </Lamp>
+    </drivers>
+    <groups>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>0</groupId>
+            <groupid>0</groupid>
+            <driverid>0</driverid>
+            <id>0</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>0</groupId>
+            <groupid>0</groupid>
+            <driverid>1</driverid>
+            <id>1</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>0</groupId>
+            <groupid>0</groupid>
+            <driverid>2</driverid>
+            <id>2</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>0</groupId>
+            <groupid>0</groupid>
+            <driverid>3</driverid>
+            <id>3</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>0</groupId>
+            <groupid>0</groupid>
+            <driverid>16</driverid>
+            <id>16</id>
+          </Lamp>
+        </lamps>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupid>0</groupid>
+        <id>0</id>
+        <groupname>5F Path</groupname>
+        <name>5F Path</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>1</groupId>
+            <groupid>1</groupid>
+            <driverid>7</driverid>
+            <id>7</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>1</groupId>
+            <groupid>1</groupid>
+            <driverid>8</driverid>
+            <id>8</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>1</groupId>
+            <groupid>1</groupid>
+            <driverid>9</driverid>
+            <id>9</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupid>1</groupid>
+        <id>1</id>
+        <groupname>Conference Room</groupname>
+        <name>Conference Room</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>2</groupId>
+            <groupid>2</groupid>
+            <driverid>11</driverid>
+            <id>11</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupid>2</groupid>
+        <id>2</id>
+        <groupname>R501</groupname>
+        <name>R501</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>3</groupId>
+            <groupid>3</groupid>
+            <driverid>14</driverid>
+            <id>14</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupid>3</groupid>
+        <id>3</id>
+        <groupname>R502</groupname>
+        <name>R502</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>4</groupId>
+            <groupid>4</groupid>
+            <driverid>4</driverid>
+            <id>4</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>4</groupId>
+            <groupid>4</groupid>
+            <driverid>5</driverid>
+            <id>5</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>4</groupId>
+            <groupid>4</groupid>
+            <driverid>6</driverid>
+            <id>6</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupid>4</groupid>
+        <id>4</id>
+        <groupname>Track Light</groupname>
+        <name>Track Light</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>5</groupId>
+            <groupid>5</groupid>
+            <driverid>10</driverid>
+            <id>10</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupid>5</groupid>
+        <id>5</id>
+        <groupname>R501 Bathroom</groupname>
+        <name>R501 Bathroom</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>6</groupId>
+            <groupid>6</groupid>
+            <driverid>15</driverid>
+            <id>15</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupid>6</groupid>
+        <id>6</id>
+        <groupname>R502 Bathroom</groupname>
+        <name>R502 Bathroom</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>7</groupId>
+            <groupid>7</groupid>
+            <driverid>12</driverid>
+            <id>12</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>HI-LINK_8118</wifiname>
+            <zonename>5F Zone C</zonename>
+            <areaname>5F Zone C</areaname>
+            <groupId>7</groupId>
+            <groupid>7</groupid>
+            <driverid>13</driverid>
+            <id>13</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupid>7</groupid>
+        <id>7</id>
+        <groupname>Balcony</groupname>
+        <name>Balcony</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps />
+        <wifiname>HI-LINK_8118</wifiname>
+        <zonename>5F Zone C</zonename>
+        <areaname>5F Zone C</areaname>
+        <groupid>8</groupid>
+        <id>8</id>
+        <groupname>Motion Sensor</groupname>
+        <name>Motion Sensor</name>
+        <status>0</status>
+      </Group>
+    </groups>
+  </Wifi>
+  <Wifi>
+    <areas>
+      <Area>
+        <groups>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>0</groupId>
+                <groupid>0</groupid>
+                <driverid>0</driverid>
+                <id>0</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>0</groupId>
+                <groupid>0</groupid>
+                <driverid>1</driverid>
+                <id>1</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>0</groupId>
+                <groupid>0</groupid>
+                <driverid>2</driverid>
+                <id>2</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>0</groupId>
+                <groupid>0</groupid>
+                <driverid>3</driverid>
+                <id>3</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupid>0</groupid>
+            <id>0</id>
+            <groupname>Room 1</groupname>
+            <name>Room 1</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>1</groupId>
+                <groupid>1</groupid>
+                <driverid>4</driverid>
+                <id>4</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>1</groupId>
+                <groupid>1</groupid>
+                <driverid>5</driverid>
+                <id>5</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>1</groupId>
+                <groupid>1</groupid>
+                <driverid>6</driverid>
+                <id>6</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>1</groupId>
+                <groupid>1</groupid>
+                <driverid>7</driverid>
+                <id>7</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupid>1</groupid>
+            <id>1</id>
+            <groupname>Room 2</groupname>
+            <name>Room 2</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>2</groupId>
+                <groupid>2</groupid>
+                <driverid>8</driverid>
+                <id>8</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>2</groupId>
+                <groupid>2</groupid>
+                <driverid>9</driverid>
+                <id>9</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>2</groupId>
+                <groupid>2</groupid>
+                <driverid>10</driverid>
+                <id>10</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>2</groupId>
+                <groupid>2</groupid>
+                <driverid>11</driverid>
+                <id>11</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupid>2</groupid>
+            <id>2</id>
+            <groupname>Room 3</groupname>
+            <name>Room 3</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>3</groupId>
+                <groupid>3</groupid>
+                <driverid>12</driverid>
+                <id>12</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>3</groupId>
+                <groupid>3</groupid>
+                <driverid>13</driverid>
+                <id>13</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>3</groupId>
+                <groupid>3</groupid>
+                <driverid>14</driverid>
+                <id>14</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>3</groupId>
+                <groupid>3</groupid>
+                <driverid>15</driverid>
+                <id>15</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupid>3</groupid>
+            <id>3</id>
+            <groupname>Room 4</groupname>
+            <name>Room 4</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>4</groupId>
+                <groupid>4</groupid>
+                <driverid>16</driverid>
+                <id>16</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>4</groupId>
+                <groupid>4</groupid>
+                <driverid>17</driverid>
+                <id>17</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>4</groupId>
+                <groupid>4</groupid>
+                <driverid>18</driverid>
+                <id>18</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>4</groupId>
+                <groupid>4</groupid>
+                <driverid>19</driverid>
+                <id>19</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupid>4</groupid>
+            <id>4</id>
+            <groupname>Room 5</groupname>
+            <name>Room 5</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>5</groupId>
+                <groupid>5</groupid>
+                <driverid>20</driverid>
+                <id>20</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>5</groupId>
+                <groupid>5</groupid>
+                <driverid>21</driverid>
+                <id>21</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>5</groupId>
+                <groupid>5</groupid>
+                <driverid>22</driverid>
+                <id>22</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>5</groupId>
+                <groupid>5</groupid>
+                <driverid>23</driverid>
+                <id>23</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupid>5</groupid>
+            <id>5</id>
+            <groupname>Room 6</groupname>
+            <name>Room 6</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>6</groupId>
+                <groupid>6</groupid>
+                <driverid>24</driverid>
+                <id>24</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>6</groupId>
+                <groupid>6</groupid>
+                <driverid>25</driverid>
+                <id>25</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>6</groupId>
+                <groupid>6</groupid>
+                <driverid>26</driverid>
+                <id>26</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>6</groupId>
+                <groupid>6</groupid>
+                <driverid>27</driverid>
+                <id>27</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupid>6</groupid>
+            <id>6</id>
+            <groupname>Room 7</groupname>
+            <name>Room 7</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>7</groupId>
+                <groupid>7</groupid>
+                <driverid>28</driverid>
+                <id>28</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>7</groupId>
+                <groupid>7</groupid>
+                <driverid>29</driverid>
+                <id>29</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>7</groupId>
+                <groupid>7</groupid>
+                <driverid>30</driverid>
+                <id>30</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>7</groupId>
+                <groupid>7</groupid>
+                <driverid>31</driverid>
+                <id>31</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupid>7</groupid>
+            <id>7</id>
+            <groupname>Room 8</groupname>
+            <name>Room 8</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>8</groupId>
+                <groupid>8</groupid>
+                <driverid>32</driverid>
+                <id>32</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>8</groupId>
+                <groupid>8</groupid>
+                <driverid>33</driverid>
+                <id>33</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>8</groupId>
+                <groupid>8</groupid>
+                <driverid>34</driverid>
+                <id>34</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>8</groupId>
+                <groupid>8</groupid>
+                <driverid>35</driverid>
+                <id>35</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupid>8</groupid>
+            <id>8</id>
+            <groupname>Room 9</groupname>
+            <name>Room 9</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>9</groupId>
+                <groupid>9</groupid>
+                <driverid>36</driverid>
+                <id>36</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>9</groupId>
+                <groupid>9</groupid>
+                <driverid>37</driverid>
+                <id>37</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>9</groupId>
+                <groupid>9</groupid>
+                <driverid>38</driverid>
+                <id>38</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>9</groupId>
+                <groupid>9</groupid>
+                <driverid>39</driverid>
+                <id>39</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupid>9</groupid>
+            <id>9</id>
+            <groupname>Room 10</groupname>
+            <name>Room 10</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>10</groupId>
+                <groupid>10</groupid>
+                <driverid>40</driverid>
+                <id>40</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>10</groupId>
+                <groupid>10</groupid>
+                <driverid>41</driverid>
+                <id>41</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>10</groupId>
+                <groupid>10</groupid>
+                <driverid>42</driverid>
+                <id>42</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>10</groupId>
+                <groupid>10</groupid>
+                <driverid>43</driverid>
+                <id>43</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupid>10</groupid>
+            <id>10</id>
+            <groupname>Room 11</groupname>
+            <name>Room 11</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>11</groupId>
+                <groupid>11</groupid>
+                <driverid>44</driverid>
+                <id>44</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>11</groupId>
+                <groupid>11</groupid>
+                <driverid>45</driverid>
+                <id>45</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>11</groupId>
+                <groupid>11</groupid>
+                <driverid>46</driverid>
+                <id>46</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>11</groupId>
+                <groupid>11</groupid>
+                <driverid>47</driverid>
+                <id>47</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupid>11</groupid>
+            <id>11</id>
+            <groupname>Room 12</groupname>
+            <name>Room 12</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>12</groupId>
+                <groupid>12</groupid>
+                <driverid>48</driverid>
+                <id>48</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>12</groupId>
+                <groupid>12</groupid>
+                <driverid>49</driverid>
+                <id>49</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>12</groupId>
+                <groupid>12</groupid>
+                <driverid>50</driverid>
+                <id>50</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>12</groupId>
+                <groupid>12</groupid>
+                <driverid>51</driverid>
+                <id>51</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupid>12</groupid>
+            <id>12</id>
+            <groupname>Room 13</groupname>
+            <name>Room 13</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>13</groupId>
+                <groupid>13</groupid>
+                <driverid>52</driverid>
+                <id>52</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>13</groupId>
+                <groupid>13</groupid>
+                <driverid>53</driverid>
+                <id>53</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>13</groupId>
+                <groupid>13</groupid>
+                <driverid>54</driverid>
+                <id>54</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>13</groupId>
+                <groupid>13</groupid>
+                <driverid>55</driverid>
+                <id>55</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupid>13</groupid>
+            <id>13</id>
+            <groupname>Room 14</groupname>
+            <name>Room 14</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>14</groupId>
+                <groupid>14</groupid>
+                <driverid>56</driverid>
+                <id>56</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>14</groupId>
+                <groupid>14</groupid>
+                <driverid>57</driverid>
+                <id>57</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>14</groupId>
+                <groupid>14</groupid>
+                <driverid>58</driverid>
+                <id>58</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>14</groupId>
+                <groupid>14</groupid>
+                <driverid>59</driverid>
+                <id>59</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupid>14</groupid>
+            <id>14</id>
+            <groupname>Room 15</groupname>
+            <name>Room 15</name>
+            <status>0</status>
+          </Group>
+          <Group>
+            <lamps>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>15</groupId>
+                <groupid>15</groupid>
+                <driverid>60</driverid>
+                <id>60</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>15</groupId>
+                <groupid>15</groupid>
+                <driverid>61</driverid>
+                <id>61</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>15</groupId>
+                <groupid>15</groupid>
+                <driverid>62</driverid>
+                <id>62</id>
+                <status>0</status>
+              </Lamp>
+              <Lamp>
+                <wifiname>142080200</wifiname>
+                <zonename>Test Fixture</zonename>
+                <areaname>Test Fixture</areaname>
+                <groupId>15</groupId>
+                <groupid>15</groupid>
+                <driverid>63</driverid>
+                <id>63</id>
+                <status>0</status>
+              </Lamp>
+            </lamps>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupid>15</groupid>
+            <id>15</id>
+            <groupname>Room 16</groupname>
+            <name>Room 16</name>
+            <status>0</status>
+          </Group>
+        </groups>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <name>Test Fixture</name>
+      </Area>
+    </areas>
+    <scenes>
+      <Scene>
+        <sceneid>0</sceneid>
+        <id>0</id>
+        <wifiname>142080200</wifiname>
+        <scenename>Sence1</scenename>
+        <name>Sence1</name>
+        <zonename>Test Fixture</zonename>
+        <areaName>Test Fixture</areaName>
+        <grouplist>0,10;1,20</grouplist>
+        <groups>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>0</groupId>
+            <brightness>10</brightness>
+          </SceneGroup>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>1</groupId>
+            <brightness>20</brightness>
+          </SceneGroup>
+        </groups>
+      </Scene>
+      <Scene>
+        <sceneid>1</sceneid>
+        <id>1</id>
+        <wifiname>142080200</wifiname>
+        <scenename>Sence2</scenename>
+        <name>Sence2</name>
+        <zonename>Test Fixture</zonename>
+        <areaName>Test Fixture</areaName>
+        <grouplist>0,10;1,20</grouplist>
+        <groups>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>0</groupId>
+            <brightness>10</brightness>
+          </SceneGroup>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>1</groupId>
+            <brightness>20</brightness>
+          </SceneGroup>
+        </groups>
+      </Scene>
+      <Scene>
+        <sceneid>2</sceneid>
+        <id>2</id>
+        <wifiname>142080200</wifiname>
+        <scenename>Sence3</scenename>
+        <name>Sence3</name>
+        <zonename>Test Fixture</zonename>
+        <areaName>Test Fixture</areaName>
+        <grouplist>0,10;1,20</grouplist>
+        <groups>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>0</groupId>
+            <brightness>10</brightness>
+          </SceneGroup>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>1</groupId>
+            <brightness>20</brightness>
+          </SceneGroup>
+        </groups>
+      </Scene>
+      <Scene>
+        <sceneid>3</sceneid>
+        <id>3</id>
+        <wifiname>142080200</wifiname>
+        <scenename>Sence4</scenename>
+        <name>Sence4</name>
+        <zonename>Test Fixture</zonename>
+        <areaName>Test Fixture</areaName>
+        <grouplist>0,10;1,20</grouplist>
+        <groups>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>0</groupId>
+            <brightness>10</brightness>
+          </SceneGroup>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>1</groupId>
+            <brightness>20</brightness>
+          </SceneGroup>
+        </groups>
+      </Scene>
+      <Scene>
+        <sceneid>4</sceneid>
+        <id>4</id>
+        <wifiname>142080200</wifiname>
+        <scenename>Sence5</scenename>
+        <name>Sence5</name>
+        <zonename>Test Fixture</zonename>
+        <areaName>Test Fixture</areaName>
+        <grouplist>0,10;1,20</grouplist>
+        <groups>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>0</groupId>
+            <brightness>10</brightness>
+          </SceneGroup>
+          <SceneGroup>
+            <sceneId>0</sceneId>
+            <groupId>1</groupId>
+            <brightness>20</brightness>
+          </SceneGroup>
+        </groups>
+      </Scene>
+    </scenes>
+    <timings />
+    <wifiname>142080200</wifiname>
+    <name>142080200</name>
+    <password>49742994</password>
+    <port>8080</port>
+    <drivers>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>0</groupId>
+        <groupid>0</groupid>
+        <driverid>0</driverid>
+        <id>0</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>0</groupId>
+        <groupid>0</groupid>
+        <driverid>1</driverid>
+        <id>1</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>0</groupId>
+        <groupid>0</groupid>
+        <driverid>2</driverid>
+        <id>2</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>0</groupId>
+        <groupid>0</groupid>
+        <driverid>3</driverid>
+        <id>3</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>1</groupId>
+        <groupid>1</groupid>
+        <driverid>4</driverid>
+        <id>4</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>1</groupId>
+        <groupid>1</groupid>
+        <driverid>5</driverid>
+        <id>5</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>1</groupId>
+        <groupid>1</groupid>
+        <driverid>6</driverid>
+        <id>6</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>1</groupId>
+        <groupid>1</groupid>
+        <driverid>7</driverid>
+        <id>7</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>2</groupId>
+        <groupid>2</groupid>
+        <driverid>8</driverid>
+        <id>8</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>2</groupId>
+        <groupid>2</groupid>
+        <driverid>9</driverid>
+        <id>9</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>2</groupId>
+        <groupid>2</groupid>
+        <driverid>10</driverid>
+        <id>10</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>2</groupId>
+        <groupid>2</groupid>
+        <driverid>11</driverid>
+        <id>11</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>3</groupId>
+        <groupid>3</groupid>
+        <driverid>12</driverid>
+        <id>12</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>3</groupId>
+        <groupid>3</groupid>
+        <driverid>13</driverid>
+        <id>13</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>3</groupId>
+        <groupid>3</groupid>
+        <driverid>14</driverid>
+        <id>14</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>3</groupId>
+        <groupid>3</groupid>
+        <driverid>15</driverid>
+        <id>15</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>4</groupId>
+        <groupid>4</groupid>
+        <driverid>16</driverid>
+        <id>16</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>4</groupId>
+        <groupid>4</groupid>
+        <driverid>17</driverid>
+        <id>17</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>4</groupId>
+        <groupid>4</groupid>
+        <driverid>18</driverid>
+        <id>18</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>4</groupId>
+        <groupid>4</groupid>
+        <driverid>19</driverid>
+        <id>19</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>5</groupId>
+        <groupid>5</groupid>
+        <driverid>20</driverid>
+        <id>20</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>5</groupId>
+        <groupid>5</groupid>
+        <driverid>21</driverid>
+        <id>21</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>5</groupId>
+        <groupid>5</groupid>
+        <driverid>22</driverid>
+        <id>22</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>5</groupId>
+        <groupid>5</groupid>
+        <driverid>23</driverid>
+        <id>23</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>6</groupId>
+        <groupid>6</groupid>
+        <driverid>24</driverid>
+        <id>24</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>6</groupId>
+        <groupid>6</groupid>
+        <driverid>25</driverid>
+        <id>25</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>6</groupId>
+        <groupid>6</groupid>
+        <driverid>26</driverid>
+        <id>26</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>6</groupId>
+        <groupid>6</groupid>
+        <driverid>27</driverid>
+        <id>27</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>7</groupId>
+        <groupid>7</groupid>
+        <driverid>28</driverid>
+        <id>28</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>7</groupId>
+        <groupid>7</groupid>
+        <driverid>29</driverid>
+        <id>29</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>7</groupId>
+        <groupid>7</groupid>
+        <driverid>30</driverid>
+        <id>30</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>7</groupId>
+        <groupid>7</groupid>
+        <driverid>31</driverid>
+        <id>31</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>8</groupId>
+        <groupid>8</groupid>
+        <driverid>32</driverid>
+        <id>32</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>8</groupId>
+        <groupid>8</groupid>
+        <driverid>33</driverid>
+        <id>33</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>8</groupId>
+        <groupid>8</groupid>
+        <driverid>34</driverid>
+        <id>34</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>8</groupId>
+        <groupid>8</groupid>
+        <driverid>35</driverid>
+        <id>35</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>9</groupId>
+        <groupid>9</groupid>
+        <driverid>36</driverid>
+        <id>36</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>9</groupId>
+        <groupid>9</groupid>
+        <driverid>37</driverid>
+        <id>37</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>9</groupId>
+        <groupid>9</groupid>
+        <driverid>38</driverid>
+        <id>38</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>9</groupId>
+        <groupid>9</groupid>
+        <driverid>39</driverid>
+        <id>39</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>10</groupId>
+        <groupid>10</groupid>
+        <driverid>40</driverid>
+        <id>40</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>10</groupId>
+        <groupid>10</groupid>
+        <driverid>41</driverid>
+        <id>41</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>10</groupId>
+        <groupid>10</groupid>
+        <driverid>42</driverid>
+        <id>42</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>10</groupId>
+        <groupid>10</groupid>
+        <driverid>43</driverid>
+        <id>43</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>11</groupId>
+        <groupid>11</groupid>
+        <driverid>44</driverid>
+        <id>44</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>11</groupId>
+        <groupid>11</groupid>
+        <driverid>45</driverid>
+        <id>45</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>11</groupId>
+        <groupid>11</groupid>
+        <driverid>46</driverid>
+        <id>46</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>11</groupId>
+        <groupid>11</groupid>
+        <driverid>47</driverid>
+        <id>47</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>12</groupId>
+        <groupid>12</groupid>
+        <driverid>48</driverid>
+        <id>48</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>12</groupId>
+        <groupid>12</groupid>
+        <driverid>49</driverid>
+        <id>49</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>12</groupId>
+        <groupid>12</groupid>
+        <driverid>50</driverid>
+        <id>50</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>12</groupId>
+        <groupid>12</groupid>
+        <driverid>51</driverid>
+        <id>51</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>13</groupId>
+        <groupid>13</groupid>
+        <driverid>52</driverid>
+        <id>52</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>13</groupId>
+        <groupid>13</groupid>
+        <driverid>53</driverid>
+        <id>53</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>13</groupId>
+        <groupid>13</groupid>
+        <driverid>54</driverid>
+        <id>54</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>13</groupId>
+        <groupid>13</groupid>
+        <driverid>55</driverid>
+        <id>55</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>14</groupId>
+        <groupid>14</groupid>
+        <driverid>56</driverid>
+        <id>56</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>14</groupId>
+        <groupid>14</groupid>
+        <driverid>57</driverid>
+        <id>57</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>14</groupId>
+        <groupid>14</groupid>
+        <driverid>58</driverid>
+        <id>58</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>14</groupId>
+        <groupid>14</groupid>
+        <driverid>59</driverid>
+        <id>59</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>15</groupId>
+        <groupid>15</groupid>
+        <driverid>60</driverid>
+        <id>60</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>15</groupId>
+        <groupid>15</groupid>
+        <driverid>61</driverid>
+        <id>61</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>15</groupId>
+        <groupid>15</groupid>
+        <driverid>62</driverid>
+        <id>62</id>
+        <status>0</status>
+      </Lamp>
+      <Lamp>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupId>15</groupId>
+        <groupid>15</groupid>
+        <driverid>63</driverid>
+        <id>63</id>
+        <status>0</status>
+      </Lamp>
+    </drivers>
+    <groups>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>0</groupId>
+            <groupid>0</groupid>
+            <driverid>0</driverid>
+            <id>0</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>0</groupId>
+            <groupid>0</groupid>
+            <driverid>1</driverid>
+            <id>1</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>0</groupId>
+            <groupid>0</groupid>
+            <driverid>2</driverid>
+            <id>2</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>0</groupId>
+            <groupid>0</groupid>
+            <driverid>3</driverid>
+            <id>3</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupid>0</groupid>
+        <id>0</id>
+        <groupname>Room 1</groupname>
+        <name>Room 1</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>1</groupId>
+            <groupid>1</groupid>
+            <driverid>4</driverid>
+            <id>4</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>1</groupId>
+            <groupid>1</groupid>
+            <driverid>5</driverid>
+            <id>5</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>1</groupId>
+            <groupid>1</groupid>
+            <driverid>6</driverid>
+            <id>6</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>1</groupId>
+            <groupid>1</groupid>
+            <driverid>7</driverid>
+            <id>7</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupid>1</groupid>
+        <id>1</id>
+        <groupname>Room 2</groupname>
+        <name>Room 2</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>2</groupId>
+            <groupid>2</groupid>
+            <driverid>8</driverid>
+            <id>8</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>2</groupId>
+            <groupid>2</groupid>
+            <driverid>9</driverid>
+            <id>9</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>2</groupId>
+            <groupid>2</groupid>
+            <driverid>10</driverid>
+            <id>10</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>2</groupId>
+            <groupid>2</groupid>
+            <driverid>11</driverid>
+            <id>11</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupid>2</groupid>
+        <id>2</id>
+        <groupname>Room 3</groupname>
+        <name>Room 3</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>3</groupId>
+            <groupid>3</groupid>
+            <driverid>12</driverid>
+            <id>12</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>3</groupId>
+            <groupid>3</groupid>
+            <driverid>13</driverid>
+            <id>13</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>3</groupId>
+            <groupid>3</groupid>
+            <driverid>14</driverid>
+            <id>14</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>3</groupId>
+            <groupid>3</groupid>
+            <driverid>15</driverid>
+            <id>15</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupid>3</groupid>
+        <id>3</id>
+        <groupname>Room 4</groupname>
+        <name>Room 4</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>4</groupId>
+            <groupid>4</groupid>
+            <driverid>16</driverid>
+            <id>16</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>4</groupId>
+            <groupid>4</groupid>
+            <driverid>17</driverid>
+            <id>17</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>4</groupId>
+            <groupid>4</groupid>
+            <driverid>18</driverid>
+            <id>18</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>4</groupId>
+            <groupid>4</groupid>
+            <driverid>19</driverid>
+            <id>19</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupid>4</groupid>
+        <id>4</id>
+        <groupname>Room 5</groupname>
+        <name>Room 5</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>5</groupId>
+            <groupid>5</groupid>
+            <driverid>20</driverid>
+            <id>20</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>5</groupId>
+            <groupid>5</groupid>
+            <driverid>21</driverid>
+            <id>21</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>5</groupId>
+            <groupid>5</groupid>
+            <driverid>22</driverid>
+            <id>22</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>5</groupId>
+            <groupid>5</groupid>
+            <driverid>23</driverid>
+            <id>23</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupid>5</groupid>
+        <id>5</id>
+        <groupname>Room 6</groupname>
+        <name>Room 6</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>6</groupId>
+            <groupid>6</groupid>
+            <driverid>24</driverid>
+            <id>24</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>6</groupId>
+            <groupid>6</groupid>
+            <driverid>25</driverid>
+            <id>25</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>6</groupId>
+            <groupid>6</groupid>
+            <driverid>26</driverid>
+            <id>26</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>6</groupId>
+            <groupid>6</groupid>
+            <driverid>27</driverid>
+            <id>27</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupid>6</groupid>
+        <id>6</id>
+        <groupname>Room 7</groupname>
+        <name>Room 7</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>7</groupId>
+            <groupid>7</groupid>
+            <driverid>28</driverid>
+            <id>28</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>7</groupId>
+            <groupid>7</groupid>
+            <driverid>29</driverid>
+            <id>29</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>7</groupId>
+            <groupid>7</groupid>
+            <driverid>30</driverid>
+            <id>30</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>7</groupId>
+            <groupid>7</groupid>
+            <driverid>31</driverid>
+            <id>31</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupid>7</groupid>
+        <id>7</id>
+        <groupname>Room 8</groupname>
+        <name>Room 8</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>8</groupId>
+            <groupid>8</groupid>
+            <driverid>32</driverid>
+            <id>32</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>8</groupId>
+            <groupid>8</groupid>
+            <driverid>33</driverid>
+            <id>33</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>8</groupId>
+            <groupid>8</groupid>
+            <driverid>34</driverid>
+            <id>34</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>8</groupId>
+            <groupid>8</groupid>
+            <driverid>35</driverid>
+            <id>35</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupid>8</groupid>
+        <id>8</id>
+        <groupname>Room 9</groupname>
+        <name>Room 9</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>9</groupId>
+            <groupid>9</groupid>
+            <driverid>36</driverid>
+            <id>36</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>9</groupId>
+            <groupid>9</groupid>
+            <driverid>37</driverid>
+            <id>37</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>9</groupId>
+            <groupid>9</groupid>
+            <driverid>38</driverid>
+            <id>38</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>9</groupId>
+            <groupid>9</groupid>
+            <driverid>39</driverid>
+            <id>39</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupid>9</groupid>
+        <id>9</id>
+        <groupname>Room 10</groupname>
+        <name>Room 10</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>10</groupId>
+            <groupid>10</groupid>
+            <driverid>40</driverid>
+            <id>40</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>10</groupId>
+            <groupid>10</groupid>
+            <driverid>41</driverid>
+            <id>41</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>10</groupId>
+            <groupid>10</groupid>
+            <driverid>42</driverid>
+            <id>42</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>10</groupId>
+            <groupid>10</groupid>
+            <driverid>43</driverid>
+            <id>43</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupid>10</groupid>
+        <id>10</id>
+        <groupname>Room 11</groupname>
+        <name>Room 11</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>11</groupId>
+            <groupid>11</groupid>
+            <driverid>44</driverid>
+            <id>44</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>11</groupId>
+            <groupid>11</groupid>
+            <driverid>45</driverid>
+            <id>45</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>11</groupId>
+            <groupid>11</groupid>
+            <driverid>46</driverid>
+            <id>46</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>11</groupId>
+            <groupid>11</groupid>
+            <driverid>47</driverid>
+            <id>47</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupid>11</groupid>
+        <id>11</id>
+        <groupname>Room 12</groupname>
+        <name>Room 12</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>12</groupId>
+            <groupid>12</groupid>
+            <driverid>48</driverid>
+            <id>48</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>12</groupId>
+            <groupid>12</groupid>
+            <driverid>49</driverid>
+            <id>49</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>12</groupId>
+            <groupid>12</groupid>
+            <driverid>50</driverid>
+            <id>50</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>12</groupId>
+            <groupid>12</groupid>
+            <driverid>51</driverid>
+            <id>51</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupid>12</groupid>
+        <id>12</id>
+        <groupname>Room 13</groupname>
+        <name>Room 13</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>13</groupId>
+            <groupid>13</groupid>
+            <driverid>52</driverid>
+            <id>52</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>13</groupId>
+            <groupid>13</groupid>
+            <driverid>53</driverid>
+            <id>53</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>13</groupId>
+            <groupid>13</groupid>
+            <driverid>54</driverid>
+            <id>54</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>13</groupId>
+            <groupid>13</groupid>
+            <driverid>55</driverid>
+            <id>55</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupid>13</groupid>
+        <id>13</id>
+        <groupname>Room 14</groupname>
+        <name>Room 14</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>14</groupId>
+            <groupid>14</groupid>
+            <driverid>56</driverid>
+            <id>56</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>14</groupId>
+            <groupid>14</groupid>
+            <driverid>57</driverid>
+            <id>57</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>14</groupId>
+            <groupid>14</groupid>
+            <driverid>58</driverid>
+            <id>58</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>14</groupId>
+            <groupid>14</groupid>
+            <driverid>59</driverid>
+            <id>59</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupid>14</groupid>
+        <id>14</id>
+        <groupname>Room 15</groupname>
+        <name>Room 15</name>
+        <status>0</status>
+      </Group>
+      <Group>
+        <lamps>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>15</groupId>
+            <groupid>15</groupid>
+            <driverid>60</driverid>
+            <id>60</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>15</groupId>
+            <groupid>15</groupid>
+            <driverid>61</driverid>
+            <id>61</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>15</groupId>
+            <groupid>15</groupid>
+            <driverid>62</driverid>
+            <id>62</id>
+            <status>0</status>
+          </Lamp>
+          <Lamp>
+            <wifiname>142080200</wifiname>
+            <zonename>Test Fixture</zonename>
+            <areaname>Test Fixture</areaname>
+            <groupId>15</groupId>
+            <groupid>15</groupid>
+            <driverid>63</driverid>
+            <id>63</id>
+            <status>0</status>
+          </Lamp>
+        </lamps>
+        <wifiname>142080200</wifiname>
+        <zonename>Test Fixture</zonename>
+        <areaname>Test Fixture</areaname>
+        <groupid>15</groupid>
+        <id>15</id>
+        <groupname>Room 16</groupname>
+        <name>Room 16</name>
+        <status>0</status>
+      </Group>
+    </groups>
+  </Wifi>
+</list>
