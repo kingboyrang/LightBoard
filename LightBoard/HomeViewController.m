@@ -115,13 +115,9 @@
         if (!cell) {
             cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:cellId];
             //cell.accessoryType=UITableViewCellAccessoryDisclosureIndicator;
-            
-            UIView * _separateLine = [[UIImageView alloc] initWithFrame:CGRectMake(0, 59.5, self.view.bounds.size.width, 0.5)];
+            UIView * _separateLine = [[UIImageView alloc] initWithFrame:CGRectMake(0, 49.5, self.view.bounds.size.width, 0.5)];
             [_separateLine setBackgroundColor:kSeparateLineColor];
             [cell.contentView addSubview:_separateLine];
-            
-            
-            
         }
         LightWIFI *model=[self.wifis objectAtIndex:indexPath.row];
         cell.textLabel.text = model.wifiname;
@@ -145,6 +141,9 @@
     
 }
 - (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath{
+    if (tableView==self.leftTableView){
+        return 50.0;
+    }
     return 60.0;
 }
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{

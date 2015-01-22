@@ -10,6 +10,9 @@
 #import "AreaGroupCell.h"
 #import "LightAreaGroup.h"
 #import "UIBarButtonItem+TPCategory.h"
+
+#define SourceDefaultData [NSArray arrayWithObjects:@"Turn On All",@"Turn Off All",@"Brightness",@"Scene",@"Setting", nil]
+
 @implementation AreaGroupViewController
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -19,13 +22,14 @@
     self.navigationItem.rightBarButtonItem=[UIBarButtonItem barButtonWithTitle:@"设置" target:self action:@selector(settingClick) forControlEvents:UIControlEventTouchUpInside];
     
     // popover view
+    //self.view.bounds.size.width-160-10
     self.popTableView=[[UITableView alloc] initWithFrame:CGRectMake(0, 0, 160, 250) style:UITableViewStylePlain];
     self.popTableView.dataSource=self;
     self.popTableView.delegate=self;
     self.popTableView.separatorStyle=UITableViewCellSeparatorStyleNone;
     
     self.popover = [DXPopover new];
-
+    
 }
 //设置
 - (void)settingClick{
@@ -34,7 +38,7 @@
 #pragma mark - popover show
 - (void)titleShowPopover
 {
-    UIView *titleView = self.navigationItem.leftBarButtonItem.customView;
+    UIView *titleView = self.navigationItem.rightBarButtonItem.customView;
     CGPoint startPoint = CGPointMake(CGRectGetMidX(titleView.frame), CGRectGetMaxY(titleView.frame) + 20);
     
     [self.popover showAtPoint:startPoint popoverPostion:DXPopoverPositionDown withContentView:self.popTableView inView:self.navigationController.view];
@@ -54,7 +58,7 @@
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section{
     if (self.popTableView==tableView) {
         if (self.sourceType==AreaGroupSourceDefault) {
-            return 5;
+            return [SourceDefaultData count];
         }else if(self.sourceType==AreaGroupSourceBrightness){
             
         }
@@ -68,13 +72,13 @@
         UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellId];
         if (cell==nil) {
             cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:cellId];
-            UIView * _separateLine = [[UIImageView alloc] initWithFrame:CGRectMake(0, 59.5, self.view.bounds.size.width, 0.5)];
+            UIView * _separateLine = [[UIImageView alloc] initWithFrame:CGRectMake(0, 49.5, self.view.bounds.size.width, 0.5)];
             [_separateLine setBackgroundColor:kSeparateLineColor];
             [cell.contentView addSubview:_separateLine];
 
         }
         //LightWIFI *model=[self.wifis objectAtIndex:indexPath.row];
-        //cell.textLabel.text = model.wifiname;
+        cell.textLabel.text = [SourceDefaultData objectAtIndex:indexPath.row];
         cell.textLabel.font=kAppShowFont;
         return cell;
     }
@@ -98,6 +102,9 @@
     return cell;
 }
 - (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath{
+    if (self.popTableView==tableView){
+        return 50.0;
+    }
     return 60.0;
 }
 @end

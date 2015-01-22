@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BCAB2E04-7DA7-44CC-A8D0-049B9A7888D8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LightBoard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>09EBF338E34F24952C57F987FF291030BEF0278C</key>
+		<string>https://github.com/kingboyrang/LightBoard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LightBoard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>09EBF338E34F24952C57F987FF291030BEF0278C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kingboyrang/LightBoard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>09EBF338E34F24952C57F987FF291030BEF0278C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>09EBF338E34F24952C57F987FF291030BEF0278C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LightBoard</string>
+		</dict>
+	</array>
+</dict>
+</plist>

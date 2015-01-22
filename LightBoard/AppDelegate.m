@@ -7,6 +7,10 @@
 //
 
 #import "AppDelegate.h"
+#import "LBSocketManager.h"
+
+#define HOST @"www.paypal.com"
+#define PORT 443
 
 @interface AppDelegate ()
 
@@ -16,6 +20,12 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    
+    LBSocketManager *manager=[LBSocketManager sharedInstance];
+    manager.socketHost=HOST;
+    manager.socketPort=PORT;
+    [manager startConnect];
+    
     // Override point for customization after application launch.
     // 注册苹果推送，申请推送权限。
     if ([[[UIDevice currentDevice] systemVersion] floatValue]>=8.0) {
