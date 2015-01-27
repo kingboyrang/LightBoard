@@ -16,4 +16,6 @@
 //单例模式
 + (LightWIFIManager *)sharedInstance;
 - (void)loadXml;
+- (void)loadDataSource;
+- (void)loadXmlWithFilePath:(NSString*)path;
 @end

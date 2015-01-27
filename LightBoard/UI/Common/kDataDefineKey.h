@@ -12,4 +12,9 @@
 //#define kAppShowFont [UIFont fontWithName:@"Helvetica" size:17];
 #define kAppShowFont         [UIFont fontWithName:@"Arial" size:17];
 #define kSeparateLineColor   [UIColor colorWithRed:210/255.0 green:210/255.0 blue:210/255.0 alpha:1.0]
+#define kDataKeyXmlPath @"kDataKeyXmlPath"
+
+
+#define kNavTitleFont         [UIFont fontWithName:@"Arial-Bold" size:22]
+#define kNavTitleColor        [UIColor whiteColor]
 #endif

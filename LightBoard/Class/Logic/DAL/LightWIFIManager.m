@@ -13,6 +13,8 @@
 #import "GDataXMLNode.h"
 #import "LightScenesGroup.h"
 #import "LightAreaGroup.h"
+#import "UCSUserDefaultManager.h"
+#import "FileInfo.h"
 @interface LightWIFIManager()
 @property (nonatomic,strong) XmlParseHelper *xmlparse;
 @end
@@ -29,33 +31,19 @@
     return sSharedInstance;
 }
 - (id)init{
-    if (self=[super init]) {
-        /***
-        NSString *path=[[NSBundle mainBundle] pathForResource:@"wifi" ofType:@"xml"];
-        NSString *xml=[NSString stringWithContentsOfFile:path encoding:NSUTF8StringEncoding error:nil];
-        
-        self.xmlparse=[[XmlParseHelper alloc] initWithData:xml];
-        
-        NSArray *nodes=nil;
-        self.wifis=[self.xmlparse selectNodes:@"//Wifi" forObject:[LightWIFI class] outNodes:&nodes];
-        if (nodes) {
-            NSInteger index=0;
-            for (GDataXMLNode *node in nodes) {
-                LightWIFI *item=[self.wifis objectAtIndex:index];
-                
-                item.areas=[self.xmlparse selectChildsNodesToObjects:node xpath:@"//Area" forObject:[LightArea class]];
-                item.scenes=[self.xmlparse selectChildsNodesToObjects:node xpath:@"//Scene" forObject:[LightScenes class]];
-                index++;
-            }
-        }
-        ***/
-        
+    if (self=[super init]) { 
     }
     return self;
 }
-- (void)loadXml{
-    NSString *path=[[NSBundle mainBundle] pathForResource:@"wifi" ofType:@"xml"];
-    NSString *xml=[NSString stringWithContentsOfFile:path encoding:NSUTF8StringEncoding error:nil];
+- (void)loadXmlWithFilePath:(NSString*)path{
+   
+    NSError *readError=nil;
+    NSString *xml=[NSString stringWithContentsOfFile:path encoding:NSUTF8StringEncoding error:&readError];
+    if (readError) {
+        NSLog(@"readError =%@",readError.description);
+        return;
+    }
+   
     
     NSError *error=nil;
     GDataXMLDocument *document=[[GDataXMLDocument alloc] initWithXMLString:xml options:0 error:&error];
@@ -69,10 +57,66 @@
         [results addObject:[self getNodeToWifi:item]];
         //[array addObject:[self childsNodeToObject:item forObject:cls]];
     }
-   
+    
     self.wifis=results;
     [[NSNotificationCenter defaultCenter] postNotificationName:kNotificationLoadXmlFinished object:nil userInfo:nil];
-    //return array;
+}
+- (NSArray*) allFilesAtPath:(NSString*) direString {
+    NSMutableArray *pathArray = [NSMutableArray array];
+    NSFileManager *fileManager = [NSFileManager defaultManager];
+    NSArray *tempArray = [fileManager contentsOfDirectoryAtPath:direString error:nil];
+    for (NSString *fileName in tempArray) {
+        BOOL flag = YES;
+        NSString *fullPath = [direString stringByAppendingPathComponent:fileName];
+        if ([fileManager fileExistsAtPath:fullPath isDirectory:&flag]) {
+            if (!flag) {
+                if ([[[fileName pathExtension] lowercaseString] isEqualToString:@"xml"]) {
+                    FileInfo *model=[[FileInfo alloc] init];
+                    model.path=fullPath;
+                    //attributesOfItemAtPath
+                    NSDictionary *fileAttributes= [fileManager attributesOfItemAtPath:fullPath error:nil];
+                    //NSDictionary *fileAttributes=[fileManager fileAttributesAtPath:fullPath traverseLink:YES];
+                    //修改日期
+                    model.fileModDate=[fileAttributes objectForKey:NSFileModificationDate];
+                    [pathArray addObject:model];
+                }
+            }
+            else {
+                [pathArray addObjectsFromArray:[self allFilesAtPath:fullPath]];
+                //[pathArray addObject:[self allFilesAtPath:fullPath]];
+            }
+        }
+    }
+    
+    return pathArray;
+}
+- (void)loadDataSource{
+    NSFileManager *fileManager=[NSFileManager defaultManager];
+    NSString *path=[UCSUserDefaultManager GetLocalDataString:kDataKeyXmlPath];
+    NSLog(@"path =%@",path);
+    if (path&&[path length]>0&&[fileManager fileExistsAtPath:path]) {
+        [self loadXmlWithFilePath:path];
+    }else{//向document目录里面查找
+        NSString *documentPath=[NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) objectAtIndex:0];
+        NSArray *levelList =[self allFilesAtPath:documentPath];
+        //排序处理
+        NSComparator cmptr = ^(id obj1, id obj2){
+            FileInfo *model1=(FileInfo*)obj1;
+            FileInfo *model2=(FileInfo*)obj2;
+            return [model2.fileModDate compare:model1.fileModDate];
+        };
+        levelList=[levelList sortedArrayUsingComparator:cmptr];
+        if (levelList&&[levelList count]>0) {
+            FileInfo *info=(FileInfo*)[levelList objectAtIndex:0];
+            [UCSUserDefaultManager setLocalDataString:info.path key:kDataKeyXmlPath];
+            [self loadXmlWithFilePath:info.path];
+        }
+        
+    }
+}
+- (void)loadXml{
+    NSString *path=[[NSBundle mainBundle] pathForResource:@"wifi" ofType:@"xml"];
+    [self loadXmlWithFilePath:path];
 }
 - (NSArray*)getAreasGroupWithNode:(GDataXMLNode*)node{
     NSMutableArray *arr=[NSMutableArray arrayWithCapacity:0];

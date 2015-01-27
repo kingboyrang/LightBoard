@@ -55,21 +55,20 @@
 }
 // 心跳连接
 -(void)longConnectToSocket{
-    
     // 根据服务器要求发送固定格式的数据，假设为指令@"longConnect"，但是一般不会是这么简单的指令
     NSString *longConnect = @"longConnect";
     NSData   *dataStream  = [longConnect dataUsingEncoding:NSUTF8StringEncoding];
     [self.socket writeData:dataStream withTimeout:1 tag:1];
-    
-    
 }
 // 切断socket
 -(void)closeSocket{
-    self.socket.userData = SocketOfflineByUser;
-    [self.connectTimer invalidate];
-    [self.socket setDelegate:nil];
-    [self.socket disconnect];
-    self.socket=nil;
+    if (self.socket) {
+        self.socket.userData = SocketOfflineByUser;
+        [self.connectTimer invalidate];
+        [self.socket setDelegate:nil];
+        [self.socket disconnect];
+        self.socket=nil;
+    }
 }
 -(void)onSocketDidDisconnect:(AsyncSocket *)sock
 {

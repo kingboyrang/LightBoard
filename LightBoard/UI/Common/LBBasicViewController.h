@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface LBBasicViewController : UIViewController
-
+- (BOOL)isNavigationBack;
 @end

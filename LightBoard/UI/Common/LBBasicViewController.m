@@ -19,9 +19,18 @@
     if ([[[UIDevice currentDevice] systemVersion] floatValue] >= 7.0) {
         self.edgesForExtendedLayout = UIRectEdgeNone;
     }
-    // Do any additional setup after loading the view.
+    self.navigationItem.backBarButtonItem=[[UIBarButtonItem alloc] initWithTitle:@"返回" style:UIBarButtonItemStylePlain target:self action:@selector(goNavback)];
 }
-
+- (void)goNavback{
+    if (![self isNavigationBack]) {
+        return;
+    }
+    [self.navigationController popViewControllerAnimated:YES];
+}
+- (BOOL)isNavigationBack{
+  
+    return YES;
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.

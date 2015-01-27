@@ -10,6 +10,10 @@
 #import "LightWIFIManager.h"
 #import "AreaGroupViewController.h"
 #import "UIBarButtonItem+TPCategory.h"
+
+//路径设置
+#define DocumentPath [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) objectAtIndex:0]
+
 @interface HomeViewController ()
 @property (nonatomic,strong) LightWIFI *curLightWifi;
 @property (nonatomic,strong) NSArray *wifis;
@@ -20,17 +24,30 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.navigationItem.rightBarButtonItem=[UIBarButtonItem barButtonWithTitle:@"导入" target:self action:@selector(importClick) forControlEvents:UIControlEventTouchUpInside];
+    UIColor *navTitleColor=[UIColor colorFromHexRGB:@"FFFFFF"];//FFFFFF
+    UIFont *font=[UIFont fontWithName:@"Arial-Bold" size:22];
+    [self.navigationController.navigationBar setTitleTextAttributes:[NSDictionary dictionaryWithObjectsAndKeys:
+                                                navTitleColor,
+                                                UITextAttributeTextColor,
+                                                font,
+                                                UITextAttributeFont,nil]];
     
-    [[LightWIFIManager sharedInstance] loadXml];
+    
+    self.navigationItem.rightBarButtonItem=[UIBarButtonItem barButtonWithTitle:@"导入文件" target:self action:@selector(importClick) forControlEvents:UIControlEventTouchUpInside];
+    
+    
+    //加载数据
+    [[LightWIFIManager sharedInstance] loadDataSource];
     UIButton *leftBtn=[UIButton buttonWithType:UIButtonTypeCustom];
-    leftBtn.frame=CGRectMake(0, 0, 200, 40);
-    [leftBtn setTitleColor:[UIColor blackColor] forState:UIControlStateNormal];
+    leftBtn.frame=CGRectMake(0, 0, 100, 40);
+    [leftBtn setTitleColor:[UIColor whiteColor] forState:UIControlStateNormal];
     [leftBtn addTarget:self action:@selector(titleShowPopover) forControlEvents:UIControlEventTouchUpInside];
     leftBtn.titleLabel.font = kAppShowFont;
     
-    _labLine=[[UILabel alloc] initWithFrame:CGRectMake(0, 38, 200, 1)];
-    _labLine.backgroundColor=UIColorMakeRGB(134,31,31);
+    
+    _labLine=[[UILabel alloc] initWithFrame:CGRectMake(0, 38, 100, 1)];
+    //_labLine.backgroundColor=UIColorMakeRGB(134,31,31);
+    _labLine.backgroundColor=[UIColor whiteColor];
     [leftBtn addSubview:_labLine];
     
     self.navigationItem.leftBarButtonItem=[[UIBarButtonItem alloc] initWithCustomView:leftBtn];
@@ -47,13 +64,17 @@
     self.popover = [DXPopover new];
     
     [self receiveXmlChange];
-    //[[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(receiveXmlChange) name:kNotificationLoadXmlFinished object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(receiveXmlChange) name:kNotificationLoadXmlFinished object:nil];
     
     // Do any additional setup after loading the view, typically from a nib.
 }
 //导入
 - (void)importClick{
-
+    //NSString *path=[DocumentPath stringByAppendingPathComponent:@"110.xml"];
+    NSString *path=[[NSBundle mainBundle] pathForResource:@"wifi001" ofType:@"txt"];
+    NSURL *fileURL= [NSURL fileURLWithPath:path];
+    [self setupDocumentControllerWithURL:fileURL];
+    [self.docInteractionController presentOptionsMenuFromBarButtonItem:self.navigationItem.rightBarButtonItem animated:YES];
 }
 - (void)reloadXml{
     self.wifis=[[LightWIFIManager sharedInstance] wifis];
@@ -158,7 +179,20 @@
     }else{
         AreaGroupViewController *areaGroup=[self.storyboard instantiateViewControllerWithIdentifier:@"AreaGroupVC"];
         areaGroup.areaEntity=[self.curLightWifi.areas objectAtIndex:indexPath.row];
+        areaGroup.lightSences=self.curLightWifi.scenes;
         [self.navigationController pushViewController:areaGroup animated:YES];
+    }
+}
+- (void)setupDocumentControllerWithURL:(NSURL *)url
+{
+    if (self.docInteractionController == nil)
+    {
+        self.docInteractionController = [UIDocumentInteractionController interactionControllerWithURL:url];
+        self.docInteractionController.delegate = self;
+    }
+    else
+    {
+        self.docInteractionController.URL = url;
     }
 }
 - (void)didReceiveMemoryWarning {

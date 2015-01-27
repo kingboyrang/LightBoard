@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		262BA5FA1A73E3BA005585BB /* SettingLightViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 262BA5F91A73E3BA005585BB /* SettingLightViewController.m */; };
+		262BA5FD1A73EC9C005585BB /* SettingTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 262BA5FC1A73EC9C005585BB /* SettingTableViewCell.m */; };
+		262BA5FF1A73ECB1005585BB /* SettingTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 262BA5FE1A73ECB1005585BB /* SettingTableViewCell.xib */; };
+		262BA6051A73ED0D005585BB /* chk-chk.png in Resources */ = {isa = PBXBuildFile; fileRef = 262BA6011A73ED0D005585BB /* chk-chk.png */; };
+		262BA6061A73ED0D005585BB /* chk-chk@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 262BA6021A73ED0D005585BB /* chk-chk@2x.png */; };
+		262BA6071A73ED0D005585BB /* chk.png in Resources */ = {isa = PBXBuildFile; fileRef = 262BA6031A73ED0D005585BB /* chk.png */; };
+		262BA6081A73ED0D005585BB /* chk@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 262BA6041A73ED0D005585BB /* chk@2x.png */; };
 		3EA7C9BA1A709FC30057DA72 /* AsyncSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EA7C9B71A709FC30057DA72 /* AsyncSocket.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		3EA7C9BB1A709FC30057DA72 /* AsyncUdpSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EA7C9B91A709FC30057DA72 /* AsyncUdpSocket.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		3EA7C9BD1A709FD70057DA72 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EA7C9BC1A709FD70057DA72 /* CFNetwork.framework */; };
@@ -26,6 +33,10 @@
 		3EA7CA351A6E1FFC00E470A6 /* wwanconnect.c in Sources */ = {isa = PBXBuildFile; fileRef = 3EA7CA331A6E1FFC00E470A6 /* wwanconnect.c */; };
 		3EA7CA381A6E205D00E470A6 /* UIDevice-Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EA7CA371A6E205D00E470A6 /* UIDevice-Reachability.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		3EA7CA541A6E310200E470A6 /* UIBarButtonItem+TPCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EA7CA531A6E310200E470A6 /* UIBarButtonItem+TPCategory.m */; };
+		3EAB67A41A75F866005088D2 /* wifi001.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3EAB67A31A75F866005088D2 /* wifi001.txt */; };
+		3EAB67A71A7615F0005088D2 /* UCSUserDefaultManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EAB67A61A7615F0005088D2 /* UCSUserDefaultManager.m */; };
+		3EAB67AC1A763496005088D2 /* FileInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EAB67AB1A763496005088D2 /* FileInfo.m */; };
+		3EAB67B01A76462C005088D2 /* navigator_btn_more@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3EAB67AF1A76462C005088D2 /* navigator_btn_more@2x.png */; };
 		3EACAF0D1A6C926700C7B4A8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF0C1A6C926700C7B4A8 /* main.m */; };
 		3EACAF101A6C926700C7B4A8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF0F1A6C926700C7B4A8 /* AppDelegate.m */; };
 		3EACAF131A6C926700C7B4A8 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EACAF121A6C926700C7B4A8 /* HomeViewController.m */; };
@@ -53,6 +64,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		262BA5F81A73E3BA005585BB /* SettingLightViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingLightViewController.h; sourceTree = "<group>"; };
+		262BA5F91A73E3BA005585BB /* SettingLightViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingLightViewController.m; sourceTree = "<group>"; };
+		262BA5FB1A73EC9C005585BB /* SettingTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingTableViewCell.h; sourceTree = "<group>"; };
+		262BA5FC1A73EC9C005585BB /* SettingTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingTableViewCell.m; sourceTree = "<group>"; };
+		262BA5FE1A73ECB1005585BB /* SettingTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingTableViewCell.xib; sourceTree = "<group>"; };
+		262BA6011A73ED0D005585BB /* chk-chk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chk-chk.png"; sourceTree = "<group>"; };
+		262BA6021A73ED0D005585BB /* chk-chk@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chk-chk@2x.png"; sourceTree = "<group>"; };
+		262BA6031A73ED0D005585BB /* chk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chk.png; sourceTree = "<group>"; };
+		262BA6041A73ED0D005585BB /* chk@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chk@2x.png"; sourceTree = "<group>"; };
 		3EA7C9B61A709FC30057DA72 /* AsyncSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AsyncSocket.h; sourceTree = "<group>"; };
 		3EA7C9B71A709FC30057DA72 /* AsyncSocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AsyncSocket.m; sourceTree = "<group>"; };
 		3EA7C9B81A709FC30057DA72 /* AsyncUdpSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AsyncUdpSocket.h; sourceTree = "<group>"; };
@@ -85,6 +105,12 @@
 		3EA7CA371A6E205D00E470A6 /* UIDevice-Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIDevice-Reachability.m"; sourceTree = "<group>"; };
 		3EA7CA521A6E310200E470A6 /* UIBarButtonItem+TPCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIBarButtonItem+TPCategory.h"; sourceTree = "<group>"; };
 		3EA7CA531A6E310200E470A6 /* UIBarButtonItem+TPCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+TPCategory.m"; sourceTree = "<group>"; };
+		3EAB67A31A75F866005088D2 /* wifi001.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = wifi001.txt; sourceTree = "<group>"; };
+		3EAB67A51A7615F0005088D2 /* UCSUserDefaultManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCSUserDefaultManager.h; sourceTree = "<group>"; };
+		3EAB67A61A7615F0005088D2 /* UCSUserDefaultManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UCSUserDefaultManager.m; sourceTree = "<group>"; };
+		3EAB67AA1A763496005088D2 /* FileInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileInfo.h; sourceTree = "<group>"; };
+		3EAB67AB1A763496005088D2 /* FileInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FileInfo.m; sourceTree = "<group>"; };
+		3EAB67AF1A76462C005088D2 /* navigator_btn_more@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "navigator_btn_more@2x.png"; sourceTree = "<group>"; };
 		3EACAF071A6C926700C7B4A8 /* LightBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LightBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EACAF0B1A6C926700C7B4A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3EACAF0C1A6C926700C7B4A8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -148,6 +174,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		262BA5F71A73E0FE005585BB /* Setting */ = {
+			isa = PBXGroup;
+			children = (
+				262BA5F81A73E3BA005585BB /* SettingLightViewController.h */,
+				262BA5F91A73E3BA005585BB /* SettingLightViewController.m */,
+				262BA5FB1A73EC9C005585BB /* SettingTableViewCell.h */,
+				262BA5FC1A73EC9C005585BB /* SettingTableViewCell.m */,
+				262BA5FE1A73ECB1005585BB /* SettingTableViewCell.xib */,
+			);
+			path = Setting;
+			sourceTree = "<group>";
+		};
+		262BA6001A73ED0D005585BB /* checkbox */ = {
+			isa = PBXGroup;
+			children = (
+				262BA6011A73ED0D005585BB /* chk-chk.png */,
+				262BA6021A73ED0D005585BB /* chk-chk@2x.png */,
+				262BA6031A73ED0D005585BB /* chk.png */,
+				262BA6041A73ED0D005585BB /* chk@2x.png */,
+			);
+			path = checkbox;
+			sourceTree = "<group>";
+		};
 		3EA7C9B51A709FC30057DA72 /* AsyncSocket */ = {
 			isa = PBXGroup;
 			children = (
@@ -290,6 +339,7 @@
 		3EACAF471A6C949A00C7B4A8 /* UI */ = {
 			isa = PBXGroup;
 			children = (
+				262BA5F71A73E0FE005585BB /* Setting */,
 				3EACAF111A6C926700C7B4A8 /* HomeViewController.h */,
 				3EACAF121A6C926700C7B4A8 /* HomeViewController.m */,
 				3EA7CA241A6E097700E470A6 /* Area */,
@@ -302,6 +352,8 @@
 		3EACAF481A6C949A00C7B4A8 /* Common */ = {
 			isa = PBXGroup;
 			children = (
+				3EAB67A51A7615F0005088D2 /* UCSUserDefaultManager.h */,
+				3EAB67A61A7615F0005088D2 /* UCSUserDefaultManager.m */,
 				3EACAF491A6C94B300C7B4A8 /* LBBasicViewController.h */,
 				3EACAF4A1A6C94B300C7B4A8 /* LBBasicViewController.m */,
 				3EA7CA201A6E014900E470A6 /* kDataDefineKey.h */,
@@ -314,6 +366,8 @@
 		3EACAF4C1A6C959700C7B4A8 /* Recourse */ = {
 			isa = PBXGroup;
 			children = (
+				3EAB67AF1A76462C005088D2 /* navigator_btn_more@2x.png */,
+				262BA6001A73ED0D005585BB /* checkbox */,
 				3EA7C9C51A70BF810057DA72 /* SVProgressHUD */,
 				3EACAF4D1A6C959700C7B4A8 /* text */,
 			);
@@ -323,6 +377,7 @@
 		3EACAF4D1A6C959700C7B4A8 /* text */ = {
 			isa = PBXGroup;
 			children = (
+				3EAB67A31A75F866005088D2 /* wifi001.txt */,
 				3EACAF4E1A6C95E900C7B4A8 /* wifi.xml */,
 			);
 			path = text;
@@ -351,6 +406,8 @@
 				3EACAF5C1A6CA37F00C7B4A8 /* LightAreaGroup.m */,
 				3EA7CA1D1A6DFB5F00E470A6 /* LightScenesGroup.h */,
 				3EA7CA1E1A6DFB5F00E470A6 /* LightScenesGroup.m */,
+				3EAB67AA1A763496005088D2 /* FileInfo.h */,
+				3EAB67AB1A763496005088D2 /* FileInfo.m */,
 			);
 			path = model;
 			sourceTree = "<group>";
@@ -447,15 +504,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				262BA6061A73ED0D005585BB /* chk-chk@2x.png in Resources */,
 				3EACAF161A6C926700C7B4A8 /* Main.storyboard in Resources */,
 				3EACAF1B1A6C926700C7B4A8 /* LaunchScreen.xib in Resources */,
+				262BA6051A73ED0D005585BB /* chk-chk.png in Resources */,
 				3EA7C9CA1A70BF810057DA72 /* error.png in Resources */,
 				3EACAF4F1A6C95E900C7B4A8 /* wifi.xml in Resources */,
+				3EAB67B01A76462C005088D2 /* navigator_btn_more@2x.png in Resources */,
 				3EA7CA2C1A6E0AC300E470A6 /* AreaGroupCell.xib in Resources */,
 				3EA7C9CD1A70BF810057DA72 /* success@2x.png in Resources */,
 				3EACAF181A6C926700C7B4A8 /* Images.xcassets in Resources */,
 				3EA7C9CB1A70BF810057DA72 /* error@2x.png in Resources */,
+				3EAB67A41A75F866005088D2 /* wifi001.txt in Resources */,
+				262BA5FF1A73ECB1005585BB /* SettingTableViewCell.xib in Resources */,
 				3EA7C9CC1A70BF810057DA72 /* success.png in Resources */,
+				262BA6071A73ED0D005585BB /* chk.png in Resources */,
+				262BA6081A73ED0D005585BB /* chk@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -476,15 +540,19 @@
 				3EACAF3D1A6C935E00C7B4A8 /* XmlNode.m in Sources */,
 				3EACAF3C1A6C935E00C7B4A8 /* GDataXMLNode.m in Sources */,
 				3EACAF5A1A6CA1D200C7B4A8 /* LightWIFI.m in Sources */,
+				3EAB67A71A7615F0005088D2 /* UCSUserDefaultManager.m in Sources */,
 				3EACAF6B1A6CCC0300C7B4A8 /* UIColor+TPCategory.m in Sources */,
 				3EA7CA541A6E310200E470A6 /* UIBarButtonItem+TPCategory.m in Sources */,
 				3EA7CA231A6E05F400E470A6 /* NSString+TPCategory.m in Sources */,
 				3EACAF541A6C9F7700C7B4A8 /* LightArea.m in Sources */,
+				262BA5FA1A73E3BA005585BB /* SettingLightViewController.m in Sources */,
 				3EACAF101A6C926700C7B4A8 /* AppDelegate.m in Sources */,
+				3EAB67AC1A763496005088D2 /* FileInfo.m in Sources */,
 				3EA7CA1F1A6DFB5F00E470A6 /* LightScenesGroup.m in Sources */,
 				3EACAF0D1A6C926700C7B4A8 /* main.m in Sources */,
 				3EA7C9C41A70BF480057DA72 /* SVProgressHUD.m in Sources */,
 				3EA7CA271A6E099600E470A6 /* AreaGroupViewController.m in Sources */,
+				262BA5FD1A73EC9C005585BB /* SettingTableViewCell.m in Sources */,
 				3EA7CA301A6E1AA800E470A6 /* WifiManger.m in Sources */,
 				3EA7CA381A6E205D00E470A6 /* UIDevice-Reachability.m in Sources */,
 				3EACAF5D1A6CA37F00C7B4A8 /* LightAreaGroup.m in Sources */,

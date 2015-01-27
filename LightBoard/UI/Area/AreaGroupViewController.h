@@ -26,5 +26,8 @@ typedef enum
 @property (nonatomic,strong) DXPopover *popover;
 @property (nonatomic,assign) AreaGroupSourceType sourceType;
 @property (nonatomic,strong) LightArea *areaEntity;
+@property (nonatomic,strong) NSArray *lightSences;//场景
 
+//选中的数据源
+@property (nonatomic,strong) NSMutableDictionary *selectedArray;
 @end
