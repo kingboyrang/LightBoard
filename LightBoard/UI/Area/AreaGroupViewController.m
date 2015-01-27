@@ -37,6 +37,9 @@
     
     self.title=self.areaEntity.name;
     
+    //socket连接
+    [[LBSocketManager sharedInstance] startConnectWithWIFI:self.lightWIFI];
+    
 }
 //重写
 -(BOOL)isNavigationBack{

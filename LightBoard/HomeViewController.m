@@ -180,6 +180,7 @@
         AreaGroupViewController *areaGroup=[self.storyboard instantiateViewControllerWithIdentifier:@"AreaGroupVC"];
         areaGroup.areaEntity=[self.curLightWifi.areas objectAtIndex:indexPath.row];
         areaGroup.lightSences=self.curLightWifi.scenes;
+        areaGroup.lightWIFI=self.curLightWifi;
         [self.navigationController pushViewController:areaGroup animated:YES];
     }
 }

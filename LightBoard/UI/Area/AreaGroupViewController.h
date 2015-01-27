@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "LightArea.h"
+#import "LightWIFI.h"
 #import "DXPopover.h"
 
 //用户拨打方式
@@ -26,6 +27,7 @@ typedef enum
 @property (nonatomic,strong) DXPopover *popover;
 @property (nonatomic,assign) AreaGroupSourceType sourceType;
 @property (nonatomic,strong) LightArea *areaEntity;
+@property (nonatomic,strong) LightWIFI *lightWIFI;
 @property (nonatomic,strong) NSArray *lightSences;//场景
 
 //选中的数据源

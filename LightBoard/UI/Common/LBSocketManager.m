@@ -11,7 +11,9 @@
 #import <netinet/in.h>
 #import <arpa/inet.h>
 #import <unistd.h>
-
+#import "SVProgressHUD.h"
+#import "WifiManger.h"
+#import "UIDevice-Reachability.h"
 @implementation LBSocketManager
 //单例模式
 + (LBSocketManager *)sharedInstance{
@@ -22,8 +24,32 @@
     });
     return sSharedInstance;
 }
+//打开连接(根据wifi连接来处理)
+-(void)startConnectWithWIFI:(LightWIFI*)model{
+    NSString *wifiName=[[WifiManger sharedInstance] getWifiName];
+    if (wifiName&&[wifiName isEqualToString:model.name]) {
+        NSString *hostName=[[UIDevice currentDevice] localWiFiIPAddress];
+        self.socketHost=hostName;
+        self.socketPort=[model.port intValue];
+        
+        [self startConnect];
+    }else{
+        UIAlertView *alert=[[UIAlertView alloc] initWithTitle:@"温馨提示" message:@"请检查您的wifi连接!" delegate:nil cancelButtonTitle:nil otherButtonTitles:@"确定", nil];
+        [alert show];
+    }
+    //取得wifi名称
+}
 // socket连接
 -(void)startConnect{
+    
+    UINavigationController *nav=(UINavigationController*)[[UIApplication sharedApplication] keyWindow].rootViewController;
+    
+    [SVProgressHUD showInView:nav.view
+                       status:@"正在连接,请稍后..."
+             networkIndicator:NO
+                         posY:-1
+                     maskType:SVProgressHUDMaskTypeClear];
+    
     self.socket= [[AsyncSocket alloc] initWithDelegate:self];
     NSError *error = nil;
     [self.socket connectToHost:self.socketHost onPort:self.socketPort withTimeout:3 error:&error];
@@ -43,12 +69,14 @@
 #pragma mark  - 连接成功回调
 -(void)onSocket:(AsyncSocket *)sock didConnectToHost:(NSString *)host port:(UInt16)port
 {
-    NSLog(@"socket连接成功");
+    [SVProgressHUD dismissWithSuccess:@"连接成功!" afterDelay:1.0f];
     self.connectTimer = [NSTimer scheduledTimerWithTimeInterval:10 target:self selector:@selector(longConnectToSocket) userInfo:nil repeats:NO];
     [self.connectTimer fire];
 }
 - (void)onSocket:(AsyncSocket *)sock willDisconnectWithError:(NSError *)err{
-    if ([self.socket isConnected]) {
+    
+    if (![self.socket isConnected]) {
+        [SVProgressHUD dismissWithError:@"连接失败!" afterDelay:2.0f];
         NSLog(@"socket连接成功 willDisconnectWithError");
     }
     NSLog(@"socket连接失败,err=%@",err.description);

@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "AsyncSocket.h"
-
+#import "LightWIFI.h"
 enum{
     SocketOfflineByServer,
     SocketOfflineByUser,
@@ -22,6 +22,9 @@ enum{
 @property (nonatomic, retain) NSTimer        *connectTimer; // 计时器
 //单例模式
 + (LBSocketManager *)sharedInstance;
+
+//打开连接(根据wifi连接来处理)
+-(void)startConnectWithWIFI:(LightWIFI*)model;
 
 -(void)startConnect;// socket连接
 -(void)resetConnect;// socket重新连接
